@@ -1,3 +1,5 @@
+# The early development of Indian philosophy
+
 One globally attested phenomenon in history is the stark change in the nature of human thought between the Bronze and Iron Ages. While there was some limited “academic” literature in Bronze Age Mesopotamia and Egypt (arithmetic and geometry, astronomy, medicine), the pursuit of knowledge as an end in itself, the scientific temparament (i.e. moving away from “magical” explanations), and introspection upon this knowledge did not exist until the so-called [Axial Age](https://en.wikipedia.org/wiki/Axial_Age) starting c. 800 BC.
 
 The causes for this revolution ought to be a central topic for historical study, and India being the birthplace of these innovations is the most valuable context to study this in. This note is a look at the development of philosophy in India from the earliest times up to the canonization period (~1000—100 BC), with some very brief comments on later developments for completeness, and examines the reasons why philosophy took exactly the shape it did.

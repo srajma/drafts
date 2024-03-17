@@ -1,3 +1,5 @@
+# A short bibiliography of good sources for Indian history
+
 A general word of advice that will serve you well in life: the most popular commentators, books, the most public-facing intellectuals are usually _not_ the best in their fields, nor are they the best to learn from. Here’s what [libertarian economist Bryan Caplan](https://www.econlib.org/archives/2012/03/my_beautiful_bu.html) had to say in a different context:
 
 > In my world, Alex Tabarrok is more important than Barack Obama, Robin Hanson is more important than Paul Krugman, and the late Gary Gygax is more important than Jeremy Lin… whoever that might be.

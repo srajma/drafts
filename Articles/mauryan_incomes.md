@@ -1,3 +1,4 @@
+# Estimating Mauryan-era incomes from the weight of a mung bean.md
 Here’s my back-of-the-envelope estimate of incomes for various occupations from the Arthaśāstra. Ideally one would look at the average consumption (+taxes) of a Mauryan household and measure its price in modern terms. This is infeasible, so another approach is to use some real good (mung beans) whose price in paṇas we know as the basis of converting Mauryan-era incomes to modern day:
 
 - If I’m reading [Ch 2.19](https://www.wisdomlib.org/hinduism/book/kautilya-arthashastra/d/doc366065.html) right, 1.25 paṇas is the price of 1 droṇa of mung beans (māṣa).

@@ -1,3 +1,5 @@
+# Notable features of premodern Indian civilization
+
 Upinder Singh has a book titled _Ancient India: Culture of Contradictions_. Owing to her left slant, the themes she focused on were anachronistic and basic (”misogyny”, “goddess worship”, “inequality” etc.) but I thought the idea was a good one, and better-chosen themes would help highlight the notable features of Indian civilization and the depth and variance of Ancient Indian thought.
 
 - Truth vs cunning

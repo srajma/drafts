@@ -1,3 +1,4 @@
+# Indian history myths, narratives and overcorrections
 Most people you see online saying things authoritatively really just got all their information from Wikipedia, so don’t believe them uncritically. Fun study: [[j]]. Wikipedia itself has its own cliquey politics, and even in the idealization is only meant to reflect current academic coverage (plus what some activist projects demand be emphasized, like “Women in Red”, “WikiProject Africa”).
 
 But academic Indology has seen knowledge destruction since the 1970s, due to factors largely exogenous to Indian politics:
