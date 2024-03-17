@@ -1,4 +1,4 @@
-**🏜️ (not started) | 🏗️ (work-in-progress) | ❗ (current project) | 📤 (waiting to post) | ✅ (all done)**
+🏜️ (not started) | 🏗️ (work-in-progress) | ❗ (current project) | 📤 (waiting to post) | ✅ (all done)
 
 **[3 pitfalls to avoid in reading Indian history](Articles/pitfalls.md)** **📤**
 
@@ -27,10 +27,11 @@ See the `xatra` project ([website](https://srajma.github.io/xatra/) , [github](h
 1. Nations in antiquity: [INDIC](https://srajma.github.io/xatra/examples/nations/INDIC.html), [SILKRD](https://srajma.github.io/xatra/examples/nations/SILKRD.html), [SEA](https://srajma.github.io/xatra/examples/nations/SEA.html), [INDOSPHERE](https://srajma.github.io/xatra/examples/nations/INDOSPHERE.html) ✅
 2. The North-West according to various sources: 🏜️
 3. Early Ārya colonies in Suvarṇabhūmi: 🏜️
+4. Mainstream territorial chronology: 🏜️
 
-**Old writing not necessarily endorsed**
+**Old writing not fully endorsed**
 
-1. [A political history of premodern India](political_history.md) **✅**
-2. [Note on Vikramāditya](https://www.reddit.com/r/IndiaSpeaks/comments/rh8dmd/vikramaditya_reconstructing_the_interregnum_of_57/) **✅**
-3. [Some maps to visualize India in antiquity](maps.md) 🏗️**❗**
-4. [Estimating Mauryan-era incomes from the weight of a mung bean.md](mauryan_incomes.md) **✅**
+1. [A political history of premodern India](Old/political_history.md)
+2. [Note on Vikramāditya](https://www.reddit.com/r/IndiaSpeaks/comments/rh8dmd/vikramaditya_reconstructing_the_interregnum_of_57/)
+3. [Some maps to visualize India in antiquity](Old/maps.md)
+4. [Estimating Mauryan-era incomes from the weight of a mung bean](Old/income.md)

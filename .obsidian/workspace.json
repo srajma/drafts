@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter/xatra.md",
+                "file": "Articles/myths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/xatra.md",
+                "file": "Articles/myths.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/xatra.md",
+                "file": "Articles/myths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter/xatra.md"
+                "file": "Articles/myths.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9ae10f75b6d1aaf9",
+  "active": "7e4c698e2c05abcd",
   "lastOpenFiles": [
+    "Articles/contradictions.md",
+    "README.md",
+    "Twitter/xatra.md",
     "Twitter",
     "Articles/theology.md",
     "Articles/sources_secondary.md",
@@ -157,9 +160,7 @@
     "Articles/philosophy.md",
     "Articles/notes_barbarians.md",
     "Articles/myths.md",
-    "Articles/contradictions.md",
-    "README.md",
-    "Old/mauryan_incomes.md",
+    "Old/income.md",
     "Old/maps.md",
     "Old/political_history.md",
     "().md",
@@ -167,7 +168,6 @@
     "Articles.md",
     "Story notes/misc stories plans.md",
     "Story notes/maurya plan.md",
-    "Twitter/xatra.md",
     "_attachments/xatra/silkrd.png",
     "_attachments/xatra/indosphere.png",
     "_attachments/xatra/code.png",
