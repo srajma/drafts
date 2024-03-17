@@ -4,15 +4,15 @@ Announcing the alpha version of `xatra`, a small Python package for building his
 
 To use, just run `pip install xatra`.
 
-![[india.png]]
-![[silkrd.png]]
-![[indosphere.png]]
+![india](india.png)
+![silkrd](silkrd.png)
+![indosphere](indosphere.png)
 
 ---
 
 The idea is you specify a map by a list of "flags": declarations that a certain polity ruled over some region. A Minimal Working Example of how you would use the package:
 
-![[code.png]]
+![code](code.png)
 
 ---
 It's not the prettiest, and its handling of dynamic (year-wise) maps is currently quite inefficient. I would be *very* happy to have some collaborators:
@@ -25,5 +25,5 @@ For the time being, it at least simplifies things compared to editing in inkscap
 
 Besides my followers, might be of interest to: @gandaberunda4, @hindookissinger @prathgodbole @sapratha @arya_amsha @dhanyavisnu @ilustratedIndia
 
-![[code.png]]
-![[indosphere.png]]
+![code](code.png)
+![indosphere](indosphere.png)

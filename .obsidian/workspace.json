@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f83b3537bfd7a14",
+        "id": "2f667d0cff341061",
         "type": "tabs",
         "children": [
           {
-            "id": "36e2d7fc221edd57",
+            "id": "7e4c698e2c05abcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/mauryan_incomes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/mauryan_incomes.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/mauryan_incomes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/mauryan_incomes.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,17 +147,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "36e2d7fc221edd57",
+  "active": "7e4c698e2c05abcd",
   "lastOpenFiles": [
+    "Articles/mauryan_incomes.md",
+    "README.md",
+    "old/maps.md",
+    "old/political_history.md",
+    "().md",
+    "Articles/myths.md",
+    "Articles/contradictions.md",
+    "Articles/sources_primary.md",
+    "Articles/sources_secondary.md",
     "Articles/notes_barbarians.md",
     "Articles/theology.md",
-    "Articles/sources_secondary.md",
-    "Articles/sources_primary.md",
     "Articles/pitfalls.md",
     "Articles/philosophy.md",
-    "Articles/myths.md",
-    "Articles/mauryan_incomes.md",
-    "Articles/contradictions.md",
     "_attachments/old maps/afghanistan.png",
     "Articles.md",
     "Story notes/misc stories plans.md",
@@ -174,7 +178,6 @@
     "_attachments/xatra",
     "_attachments/New folder",
     "_attachments/Pasted image 20240310024544.png",
-    "Old articles/A political history of premodern India (1200 BC - 1756).md",
     "_attachments/old maps",
     "Untitled",
     "_attachments/stock photos",
@@ -183,8 +186,7 @@
     "Story notes/Story notes.md",
     "Story notes/To-do.md",
     "_attachments",
-    "Old articles/Some maps to visualize India in antiquity.md",
-    "Old articles",
+    "old",
     "Welcome.md",
     "History/Early Vedic society and theological developments",
     "History/Some maps to visualize India in antiquity"

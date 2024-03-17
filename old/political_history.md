@@ -1,3 +1,5 @@
+# A political history of premodern India (1200 BC - 1756)
+
 A brief walkthrough of Indian political history, focusing on the actually important things rather than just the stuff there are more tertiary sources on/that historians care more about.
 
 **Table of Contents**

@@ -1,6 +1,7 @@
+# Some maps to visualize India in antiquity
 ## [fig:names_of_india]
 
-![[names of india.png]]
+![names of india](names%20of%20india.png)
 
 **A general caveat:** A standard feature of ancient Indian culture was that we rarely referred by specific names the water we lived in. Sanskrit was usually just called “language” (“Bhāṣā”) or “correct speech”, India was usually just called “realm” (“Loka”), Hinduism was just called “Dharma” or “the practices of the Āryas”. Many of the references herein simply say things like “wherever the blackbuck roams naturally, the glory of Brahman is present”.
 
@@ -40,9 +41,9 @@ See comparative notes on [wisdomlib.org](https://www.wisdomlib.org/hinduism/book
 - [/in/veda/sutra/dharma//vasistha] Vasiṣṭha Dharmasūtra
 - [/in/pol/smrti//samvarta] Samvarta Smṛti
 
-See comparative notes on wisdomlib.org [[1]](https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1127134.html\#note-e-190249) [[2]](https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362730.html\#note-t-125632) [[3]](https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117107.html\#note-t-68687) for references to various [/in/sec/purana]
+See comparative notes on wisdomlib.org [1](1)(https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1127134.html\#note-e-190249) [2](2)(https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362730.html\#note-t-125632) [3](3)(https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117107.html\#note-t-68687) for references to various [/in/sec/purana]
 
-See comparative notes on wisdomlib.org [[1]](https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225800.html) [[2]](https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225073.html\#note-e-53821) and sources therein for references to various Buddhist Sanskrit literature.
+See comparative notes on wisdomlib.org [1](1)(https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225800.html) [2](2)(https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225073.html\#note-e-53821) and sources therein for references to various Buddhist Sanskrit literature.
 
 [/in/sec/jaina/anoyoga/phil//tattvarthasutra] Tattvārtha-sūtra, 3.37: [wisdomlib.org](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084708.html), see also notes on Jinasena’s descriptions on [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1127121.html#note-e-190181).
 
@@ -54,7 +55,7 @@ See comparative notes on wisdomlib.org [[1]](https://www.wisdomlib.org/buddhism/
 
 ## [fig:silk_road]
 
-![[central asia.png]]
+![central asia](central%20asia.png)
 
 Vague picture:
 
@@ -84,9 +85,9 @@ There are several different genres of traditional Indian literature on foreign r
 
 The absence of a standardized name for Sogdia in Indian literature (except for Ferghana, mentioned as Prakaṇva by Pāṇini, see e.g. VS Agarwala) is certainly surprising given the close relationship between India and the region (c.f. the Buddhist monk Kumarajiva), although it is referenced often in Chinese Buddhist literature. This list in [/in/sec/jaina/sveta/a8], of sources of women in a harem in Dvāraka, is illuminating:
 
-![[harem in dwaraka.png]]
+![harem in dwaraka](harem%20in%20dwaraka.png)
 
-source: [[/in/sec/jaina/sveta/a8]](https://archive.org/details/antagadadasaoanu17royauoft/page/28/mode/2up)
+source: [/in/sec/jaina/sveta/a8](/in/sec/jaina/sveta/a8)(https://archive.org/details/antagadadasaoanu17royauoft/page/28/mode/2up)
 
 > Kirata women ... women of Babbara, Pausaya, Greek, Pahlavaya, Isinaya, Caruinaya, Lasaya, Lausaya, Dravidian, Sinhalese, Arab, Pulinda, Pakkana, Bahala, Marunda, Sabara, and the Persian race, women of diverse lands, in foreign garb, with raiment taken from their own countries'  
 > fashions, understanding from gesture what was thought and desired from them  
@@ -99,7 +100,7 @@ Dravidian, Sinhalese, Pulinda, Sabara are Indian nations; Bahala is Bactria of c
 
 The Purāṇas mention that four rivers originate out of the Meru mountain, but they are oddly identified as the Sīta, Gaṅga, Indus, Oxus. The myth is reflected in Buddhist literature which specifies that these rivers proceed from the North, East, South and West of the "Anavatapta lake" respectively (see [wisdomlib.org](https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225128.html)).
 
-It seems likely that Sita was used to refer to multiple rivers, including the Syr Darya and the Tarim, see note on [wisdomlib.org](https://www.wisdomlib.org/south-asia/book/buddhist-records-of-the-western-world-xuanzang/d/doc220145.html#note-e-86548). E.g. the Brahmanda Purana suggests the river flows Westward, which would contradict being the Tarim river, see wisdomlib.org [[-]](https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362834.html) [[-]](https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362725.html\#note-t-125584)
+It seems likely that Sita was used to refer to multiple rivers, including the Syr Darya and the Tarim, see note on [wisdomlib.org](https://www.wisdomlib.org/south-asia/book/buddhist-records-of-the-western-world-xuanzang/d/doc220145.html#note-e-86548). E.g. the Brahmanda Purana suggests the river flows Westward, which would contradict being the Tarim river, see wisdomlib.org [-](-)(https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362834.html) [-](-)(https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362725.html\#note-t-125584)
 
 But the Mahabharata suggests that the Sailoda flows between the Meru and Mandara ranges, and Mandara seems to be an alternate nae for the Tian-shan, making that the Syr Daria. The Mandara has also instead been identified as the Alay range, see [wisdomlib.org](https://www.wisdomlib.org/history/compilation/list-of-mahabharata-tribes/d/doc117017.html). But I think this is unlikely because Mandara is said to be Eastward of Meru (Alay is the Westward projection of the Pamirs), and there is also no river valley of significance "between the Pamir and Alay" (Bactria lies between Pamir/Alay and the Hindu Kush).
 
@@ -119,7 +120,7 @@ VS Agarwala (1953), _India as known to Pāṇini_. 594 pages. Full text from [ar
 
 ## [fig:maritime_trade]
 
-![[sea routes.png]]
+![sea routes](sea%20routes.png)
 
 **Canonical sources:**
 
@@ -127,7 +128,7 @@ Moti Chandra (1977), _Trade and Trade Routes in Ancient India._ 294 pages. Full 
 
 ## [fig:afghanistan]
 
-![[afghanistan.png]]
+![afghanistan](afghanistan.png)
 
 Kamboja is only attested in Indian literature (to the Iranians it was just the Uparisaina mountains, part of Gandāra), apart from the name of the Achaemenid emperor Kambūjiya (see also Kūruš, that is Cyrus).
 
@@ -139,7 +140,7 @@ The Haraxvatī and and Harī rivers are cognate to the Sarasvatī and Sarayū. T
 
 ## [fig:south_east_asia]
 
-![[south east asia.png]]
+![south east asia](south%20east%20asia.png)
 
 Earliest recorded Indian rulers in Southeast Asia:
 
@@ -172,7 +173,7 @@ Moti Chandra (1977), _Trade and Trade Routes in Ancient India._ 294 pages. Full 
 
 ## [fig:cities]
 
-![[city sizes.png]]
+![city sizes](city%20sizes.png)
 
 Sources:
 
@@ -192,10 +193,10 @@ Not included: Chinese cities, because their size would dwarf everything else her
 
 ## [fig:writing_systems_modern]
 
-![[writing systems.png]]
+![writing systems](writing%20systems.png)
 
   
 
 ## [fig:meme_map]
 
-![[india europe.png]]
+![india europe](india%20europe.png)

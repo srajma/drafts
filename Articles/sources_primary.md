@@ -44,7 +44,7 @@ Something I’d quite like to see is a fully functional and complete portal of d
 - [/artha] Artha texts
     - [//kautilya] Kautilya’s Arthaśāstra (c. 300 BC). Full text & Skt from [wisdomlib.org](http://wisdomlib.org/) ([Shamashastry](https://www.wisdomlib.org/hinduism/book/kautilya-arthashastra))
     - [//kamandaki] Kāmandakī’s Nītisāra (c. 300 BC). Full texts from [archive.org](http://archive.org/) ([Manmatha Nath Dutt](https://archive.org/details/kamandakiyanitis00kamarich/page/n7/mode/2up), [Rajendralala Mitra](https://archive.org/details/in.ernet.dli.2015.196169/page/n119/mode/2up))
-    - [//sukra] Śukranītisāra (c. 300). Full texts from [archive.org](http://archive.org/) ([BK Sarkar — partial translation](https://archive.org/details/Sukra_Niti_Sara/page/n105/mode/2up), [Gustav Oppert — SS](https://archive.org/details/onweaponsarmyor00oppegoog/page/n3/mode/2up)); full Skt from [archive.org](http://archive.org/) ([[sources_primary]])
+    - [//sukra] Śukranītisāra (c. 300). Full texts from [archive.org](http://archive.org/) ([BK Sarkar — partial translation](https://archive.org/details/Sukra_Niti_Sara/page/n105/mode/2up), [Gustav Oppert — SS](https://archive.org/details/onweaponsarmyor00oppegoog/page/n3/mode/2up)); full Skt from [archive.org](http://archive.org/) ([sources_primary](sources_primary.md))
     - [//vaisampayana] Vaiśampāyana’s Nītiprakāśikā (c. 180 BC). Full text & Skt from [wisdomlib.org](http://wisdomlib.org/) ([Critical Ed](https://www.wisdomlib.org/hinduism/essay/nitiprakasika-critical-analysis))
 - [/smrti] Dharmaśāstra (Smṛti texts) — full Skts from the Smṛti Sandarbha ([archive.org](https://archive.org/details/smriti-sandarbha-gurumandal-series/Smriti%20Sandarbha%20Part%201%20-%20Gurumandal%20Series%201952/page/12/mode/2up), [astrojyoti.com](http://www.astrojyoti.com/smritisanskrit.htm)); English translations available for the popular ones:
     - [//brhaspati, //manu etc.]
@@ -85,7 +85,7 @@ Something I’d quite like to see is a fully functional and complete portal of d
 - [//yogayajnavalkya] Yoga-Yājñavalkya (c. 100 BC). Full Skt from [archive.org](https://archive.org/details/Divanji1954/mode/2up).
 - [//mimamsa] Mīmāṁsā Sūtra (600—180 BC). Full text & Skt from [archive.org](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwio2qPNp7SBAxWMRmwGHZ1rBvoQFnoECA4QAQ&url=https%3A%2F%2Farchive.org%2Fdetails%2Fmimamsasutra00jaimuoft&usg=AOvVaw3L_TsBt-SkhRJ7kZvtnkO_&opi=89978449).
 - [//vedanta] Brahma (or Vedānta) Sūtras (600—180 BC). Full text & Skt from [archive.org](https://archive.org/details/BrahmasutraMadhvaEnglish/mode/2up).
-- [//gita] Bhagavad Gītā (320 or 180 BC). Full text & Skt from [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita), [[sources_primary]].
+- [//gita] Bhagavad Gītā (320 or 180 BC). Full text & Skt from [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita), [sources_primary](sources_primary.md).
 - [//carvaka] Cārvāka sūtras (compiled 600—200 BC), surviving fragments from RK Bhattacharya. Library access from [JSTOR](https://www.jstor.org/stable/23496944); Full texts & Skt from [academia.edu](https://www.academia.edu/7851256/C%C4%81rv%C4%81ka_Fragments_A_New_Collection), [researchgate.net](https://www.researchgate.net/publication/233567550_Carvaka_Fragments_A_New_Collection).
 
 **[/post] Post-Canonical literature**

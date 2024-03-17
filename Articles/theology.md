@@ -6,7 +6,7 @@ The culture of the ancient Vedic elites occupies the dominant role in our unders
 
 This is a topic that gets a lot of unwanted attention from half-witted “sub-nationalist/separatist” (i.e. Periyarist, Ambedkarite, Khalistani, caste kangers) movements: these people’s historical knowledge is limited to idiotic interpretations of a few popular myths (”Vāmana-Bali/Mahiśāsura is about Aryans and Dravidians”, “Mohini/Ardhanārīśvara is about LGBT”). These crackpot delusions are anachronistic projections of simplistic racial narratives on the past, yet often obtain approval from mainstream writers due to the unholy leftist-subnat alliance. However, they are easily washed away with a rational and dispassionate analysis of the topic, which is what we will do here.
 
-The history of Indian theology is however a rather vast topic, and this article only provides a broad overview. For those who want to read precise details, the undisputed living expert on this topic is mānasa-taraṃgiṇī ([blog](https://manasataramgini.wordpress.com/the-complete-index/), [[theology]]).
+The history of Indian theology is however a rather vast topic, and this article only provides a broad overview. For those who want to read precise details, the undisputed living expert on this topic is mānasa-taraṃgiṇī ([blog](https://manasataramgini.wordpress.com/the-complete-index/), [theology](theology.md)).
 
 **Contents:**
 
@@ -42,8 +42,8 @@ Early Vedic literature mentions a number of outgroups — noobs often incorrectl
 - **Paṇi** — a wealthy mercantile people, derided for their wealth in the Ṛg Veda but assimilated as Vaiśyas via the creation of the caste system in the Post-RV period (1000—800 BC). The term itself is cognate with Norse “Vanir”, the gods of commerce, similarly derided.
 - **Śiśnadeva** — phallus-worshippers in the Ṛg Veda, probably a precursor to Lingam-worship. Later commentaries interpret the term instead as “unchaste people”.
 - **Nāga** — the term nāga itself is not mentioned in Vedic literature, (the Mahābhārata is first to use it), but the Vedic literature extensively speaks of a cult of _sarpasatra_, “The Serpent Sacrifice”, which may variously refer to a sacrifice _by_ serpents, _of_ serpents, or _to_ serpents. A comprehensive source on this is [[2] van den Hoek & Shrestha (1992), “The Sacrifice of Serpents: Exchange and Non-Exchange in the Sarpabali of Indrāyaṇī, Kathmandu”](https://www.jstor.org/stable/43715700).
-- **Vrātya** — fierce wandering ascetics; they were undoubtedly precursor to the Śaivite sect (they are mentioned in conjunction with deities such as Rudra and Paśupati) as well as to the ascetic (śramaṇa) influences on [[philosophy]]. A comprehensive source on this is [[3] ”Who were the Vrātyas?” by Sreenivas Rao](https://sreenivasaraos.com/2012/09/13/who-were-the-vratyas-the-searching-wanderers/).
-- **Niṣāda** — a tribe that was “neither forest-dwelling nor settled” and were eventually assimilated into Vedic society, part of them Sanskritized into fully-enfranchised Āryas, part remained untouchable, and part expelled to frontier regions in the South and the East; see [[4] Vivekanand Jha (1958). "From tribe to untouchable: the case of Niṣādas” [chapter in: RS Sharma (1972), Indian Society — Historical Probings in memory of DD Kosambi]](https://archive.org/details/in.ernet.dli.2015.150465/page/n67/mode/2up) and also later-cited [6x.1] which claims them to be related to the modern Nihali people.
+- **Vrātya** — fierce wandering ascetics; they were undoubtedly precursor to the Śaivite sect (they are mentioned in conjunction with deities such as Rudra and Paśupati) as well as to the ascetic (śramaṇa) influences on [philosophy](philosophy.md). A comprehensive source on this is [[3] ”Who were the Vrātyas?” by Sreenivas Rao](https://sreenivasaraos.com/2012/09/13/who-were-the-vratyas-the-searching-wanderers/).
+- **Niṣāda** — a tribe that was “neither forest-dwelling nor settled” and were eventually assimilated into Vedic society, part of them Sanskritized into fully-enfranchised Āryas, part remained untouchable, and part expelled to frontier regions in the South and the East; see [4](4)(https://archive.org/details/in.ernet.dli.2015.150465/page/n67/mode/2up) and also later-cited [6x.1] which claims them to be related to the modern Nihali people.
 
 **Speculative claims about Paṇis:**
 
@@ -76,7 +76,7 @@ All the aforementioned groups mentioned lived in the same geographic region as t
 
 **Language distribution:** One piece of information is the current distribution of languages, which suggests a peninsular distribution of the Dravidian languages, Eastern distribution of Munda (Austro-asiatic), and the language isolates of Nihali, Burushaki, Kusunda and the remnants in Vedda, which may at one point have had a wider distribution.
 
-![[language families today.png|language families today.png]]
+![language families today.png](language%20families%20today.png)
 
 Image: [arxiv.org/pdf/2203.12524.pdf](https://arxiv.org/pdf/2203.12524.pdf)
 
@@ -116,7 +116,7 @@ Are related, and that the tribe is of Austro-asiatic, i.e. “Para-Munda” orig
 
 **Material cultures:** Perhaps we can get some hints from looking at archaeology? Here is a list of material cultures from North India known to archaeologists:
 
-![[archaeological cultures.png|archaeological cultures.png]]
+![archaeological cultures.png](archaeological%20cultures.png)
 
 Table S1 of [9x.1]
 
@@ -163,7 +163,7 @@ Sources central to this topic, that you should follow as further reading
 
 [[3] ”Who were the Vrātyas?” by Sreenivas Rao](https://sreenivasaraos.com/2012/09/13/who-were-the-vratyas-the-searching-wanderers/)
 
-[[4] Vivekanand Jha (1958). "From tribe to untouchable: the case of Niṣādas” [chapter in: RS Sharma (1972), Indian Society — Historical Probings in memory of DD Kosambi]](https://archive.org/details/in.ernet.dli.2015.150465/page/n67/mode/2up)
+[4](4)(https://archive.org/details/in.ernet.dli.2015.150465/page/n67/mode/2up)
 
 [[5] SC Malik (1968), Indian Civilization: the formative period](https://archive.org/details/dli.ernet.107464/page/129/mode/2up)
 
