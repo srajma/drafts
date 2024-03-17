@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Twitter/xatra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Twitter/xatra.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Twitter/xatra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Twitter/xatra.md"
               }
             }
           }
@@ -147,26 +147,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7e4c698e2c05abcd",
+  "active": "9ae10f75b6d1aaf9",
   "lastOpenFiles": [
-    "Articles/mauryan_incomes.md",
-    "README.md",
-    "old/maps.md",
-    "old/political_history.md",
-    "().md",
-    "Articles/myths.md",
-    "Articles/contradictions.md",
-    "Articles/sources_primary.md",
-    "Articles/sources_secondary.md",
-    "Articles/notes_barbarians.md",
+    "Twitter",
     "Articles/theology.md",
+    "Articles/sources_secondary.md",
+    "Articles/sources_primary.md",
     "Articles/pitfalls.md",
     "Articles/philosophy.md",
+    "Articles/notes_barbarians.md",
+    "Articles/myths.md",
+    "Articles/contradictions.md",
+    "README.md",
+    "Old/mauryan_incomes.md",
+    "Old/maps.md",
+    "Old/political_history.md",
+    "().md",
     "_attachments/old maps/afghanistan.png",
     "Articles.md",
     "Story notes/misc stories plans.md",
     "Story notes/maurya plan.md",
-    "Articles/xatra.md",
+    "Twitter/xatra.md",
     "_attachments/xatra/silkrd.png",
     "_attachments/xatra/indosphere.png",
     "_attachments/xatra/code.png",
@@ -179,14 +180,13 @@
     "_attachments/New folder",
     "_attachments/Pasted image 20240310024544.png",
     "_attachments/old maps",
-    "Untitled",
     "_attachments/stock photos",
     "HTML import",
     "Story notes/quotes.md",
     "Story notes/Story notes.md",
     "Story notes/To-do.md",
     "_attachments",
-    "old",
+    "Old",
     "Welcome.md",
     "History/Early Vedic society and theological developments",
     "History/Some maps to visualize India in antiquity"
