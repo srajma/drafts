@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f667d0cff341061",
+        "id": "505ec7839d4f1f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4c698e2c05abcd",
+            "id": "efa37b0939ca85ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/myths.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/myths.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/myths.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/myths.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,38 +147,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7e4c698e2c05abcd",
+  "active": "efa37b0939ca85ba",
   "lastOpenFiles": [
-    "Articles/contradictions.md",
-    "README.md",
     "Twitter/xatra.md",
+    "Twitter/suvarnabhumi.md",
+    "Twitter/sanudasa.md",
+    "Twitter/diet.md",
+    "_attachments/F7W7HTxXsAARIlB.png",
+    "_attachments/F7W6JbOXIAAMARG.jpg",
+    "_attachments/F7W6IiIW4AA5mrA.jpg",
+    "_attachments/F7W6HE2WUAABaFK.png",
+    "_attachments/F7W5EjOXgAALX6R.jpg",
+    "README.md",
+    "_attachments/suvarnabhumi/F3l0UxYX0AE8f6F.png",
+    "_attachments/suvarnabhumi",
+    "_attachments/suvarnabhumi/F3mZXyPXYAApmVg.png",
+    "_attachments/suvarnabhumi/F3lyiGSXUAAdXpe.png",
+    "_attachments/suvarnabhumi/F3llGusX0AAt8Ua.png",
+    "_attachments/suvarnabhumi/F3ldy3dWEAIG_Jf 1.png",
+    "_attachments/sanudasa",
+    "Articles/sources_secondary.md",
+    "Articles/contradictions.md",
+    "Articles/notes_barbarians.md",
+    "Articles/myths.md",
     "Twitter",
     "Articles/theology.md",
-    "Articles/sources_secondary.md",
     "Articles/sources_primary.md",
     "Articles/pitfalls.md",
     "Articles/philosophy.md",
-    "Articles/notes_barbarians.md",
-    "Articles/myths.md",
     "Old/income.md",
     "Old/maps.md",
     "Old/political_history.md",
     "().md",
-    "_attachments/old maps/afghanistan.png",
     "Articles.md",
     "Story notes/misc stories plans.md",
     "Story notes/maurya plan.md",
-    "_attachments/xatra/silkrd.png",
-    "_attachments/xatra/indosphere.png",
-    "_attachments/xatra/code.png",
-    "_attachments/xatra/india.png",
-    "_attachments/xatra/Pasted image 20240310022219.png",
-    "_attachments/xatra/Pasted image 20240310023859.png",
-    "_attachments/xatra/Pasted image 20240310023123.png",
-    "_attachments/xatra/Pasted image 20240310022841.png",
     "_attachments/xatra",
     "_attachments/New folder",
-    "_attachments/Pasted image 20240310024544.png",
     "_attachments/old maps",
     "_attachments/stock photos",
     "HTML import",
@@ -187,8 +192,6 @@
     "Story notes/To-do.md",
     "_attachments",
     "Old",
-    "Welcome.md",
-    "History/Early Vedic society and theological developments",
-    "History/Some maps to visualize India in antiquity"
+    "Welcome.md"
   ]
 }

@@ -1,8 +1,6 @@
 # Indian history myths, narratives and overcorrections
 
-++ weird spin: importers have power, Tamils just saw as gifts, arab and chinese cola, Second Urbanization, Sangam secular or Jain/Buddhist, weird maps 
-
-Most people you see online saying things authoritatively really just got all their information from Wikipedia, so don’t believe them uncritically. Fun study: [j](j). Wikipedia itself has its own cliquey politics, and even in the idealization is only meant to reflect current academic coverage (plus what some activist projects demand be emphasized, like “Women in Red”, “WikiProject Africa”).
+Most people you see online saying things authoritatively really just got all their information from Wikipedia, so don’t believe them uncritically. Fun study: [by making edits to Wikipedia, researchers were able to alter court judgement wordings in Ireland](https://slate.com/technology/2022/08/judges-citing-wikipedia-ireland-study.html). Wikipedia itself has its own cliquey politics, and even in the idealization is only meant to reflect current academic coverage (plus what some activist projects demand be emphasized, like “Women in Red”, “WikiProject Africa”).
 
 But academic Indology has seen knowledge destruction since the 1970s, due to factors largely exogenous to Indian politics:
 
@@ -12,8 +10,8 @@ But academic Indology has seen knowledge destruction since the 1970s, due to fac
 
 _Bad_ ways to respond to this include:
 
-- Inane conspiratorial explanations [no, there are not evil geniuses, they have no complex intentions, everything is just the product of some silly social dynamics]
-- Trying to curry the left’s favour by using their lingo like _Hinduphobia_ and _decolonialization_ [no, these are not dumb people, they know you are the enemy, you can’t “fool” them]
+- Inane conspiratorial explanations (no, there are not evil geniuses, they have no complex intentions, everything is just the product of some silly social dynamics)
+- Trying to curry the left’s favour by using their lingo like _Hinduphobia_ and _decolonialization_ (no, these are not dumb people, they know you are the enemy, you can’t “fool” them)
 
 You will never be afforded the generosity that Afrocentrists or feminists are — you will never be seen as friend — and you shouldn’t be trying (to sell your intellectual honesty for a position in their ranks), in the first place.
 
@@ -24,7 +22,8 @@ Generally I think when an institution (mainstream Indology) sucks, it is best to
 
 Some of the things I respond to are straight-up falsehoods; some are weird narratives that suggest either bias or insularity; and for some I also respond to “right-wing overcorrections” (quack kanging).
 
-  
+
+++ weird spin: importers have power, Tamils just saw as gifts, arab and chinese cola, Second Urbanization, Sangam secular or Jain/Buddhist, weird maps 
 
 [https://twitter.com/PrasunNagar/status/1375786766674759686](https://twitter.com/PrasunNagar/status/1375786766674759686) — coinage
 

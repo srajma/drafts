@@ -1,3 +1,5 @@
+Docs will be posted on my [substack](srajma.github.io/blog/) when complete, and probably Twitter and Reddit.
+
 🏜️ (not started) | 🏗️ (work-in-progress) | ❗ (current project) | 📤 (waiting to post) | ✅ (all done)
 
 **[3 pitfalls to avoid in reading Indian history](Articles/pitfalls.md)** **📤**
@@ -5,7 +7,7 @@
 1. High-quality Indian history sources (canonical bibiliography)
     1. [A short bibiliography of good sources for Indian history](Articles/sources_secondary.md) **✅**
     2. [A catalog of ancient Indian literary sources](Articles/sources_primary.md) 🏗️**❗**
-2. [A catalog of ancient Indian literary sources](Articles/contradictions.md) 🏗️**❗**
+2. [Notable features of premodern Indian civilization](Articles/contradictions.md) 🏗️**❗**
     1. Indian philosophy and religion
         1. [The early development of Indian philosophy](Articles/philosophy.md) 🏗️**❗**
         2. [Early Vedic society and theological developments](Articles/theology.md) 🏗️**❗**
@@ -20,7 +22,7 @@
     1. [Notes on barbarians](Articles/notes_barbarians.md) 🏗️
     2. Notes on civilization: Brāhmī, water-wheels, coins, Pythagoras 🏗️
     3. Notes on dating: Kautilya, Gustav Oppert gunpowder, Ayodhya, Ramayana/MBh 🏗️
-    4. Notes on the morality of Indian culture: caste, Buddhism, Ayurveda, diet, general morals 🏗️
+    4. Notes on a defense of Indian culture: caste, Buddhism, Ayurveda, diet, general morals 🏗️
 
 **Maps, illustrations and data**
 See the `xatra` project ([website](https://srajma.github.io/xatra/) , [github](https://github.com/srajma/xatra), `pip install xatra`). Some of my `xatra` maps that I'll showcase:
@@ -35,3 +37,12 @@ See the `xatra` project ([website](https://srajma.github.io/xatra/) , [github](h
 2. [Note on Vikramāditya](https://www.reddit.com/r/IndiaSpeaks/comments/rh8dmd/vikramaditya_reconstructing_the_interregnum_of_57/)
 3. [Some maps to visualize India in antiquity](Old/maps.md)
 4. [Estimating Mauryan-era incomes from the weight of a mung bean](Old/income.md)
+
+**Twitter threads and Reddit comments**
+Mostly to be used as content for full-form posts in future.
+
+1. [xatra Announcement](Twitter/xatra.md)
+2. [suvarnabhumi](Twitter/suvarnabhumi.md)
+3. [sanudasa](Twitter/sanudasa.md)
+4. [diet](Twitter/diet.md)
+
