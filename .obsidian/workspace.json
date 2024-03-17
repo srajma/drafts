@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "61d6fbdb6662a822",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f83b3537bfd7a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e2d7fc221edd57",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/old maps/afghanistan.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "046d0ed435c47521",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac892e6accb56981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ae10f75b6d1aaf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf3aa203a0ee7c42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "898c88b454bb6d7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e242ca713b1e0914",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa92c3f9d121be53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d3fff20f39152f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_attachments/old maps/afghanistan.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c38c08e6c905c6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_attachments/old maps/afghanistan.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd39eae23bd358c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e818fd12080947d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_attachments/old maps/afghanistan.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "36e2d7fc221edd57",
+  "lastOpenFiles": [
+    "Articles.md",
+    "Story notes/misc stories plans.md",
+    "Story notes/maurya plan.md",
+    "Articles/A catalog of ancient Indian literary sources.md",
+    "Articles/xatra.md",
+    "_attachments/old maps/afghanistan.png",
+    "_attachments/xatra/silkrd.png",
+    "_attachments/xatra/indosphere.png",
+    "_attachments/xatra/code.png",
+    "_attachments/xatra/india.png",
+    "_attachments/xatra/Pasted image 20240310022219.png",
+    "_attachments/xatra/Pasted image 20240310023859.png",
+    "_attachments/xatra/Pasted image 20240310023123.png",
+    "_attachments/xatra/Pasted image 20240310022841.png",
+    "_attachments/xatra",
+    "_attachments/New folder",
+    "_attachments/Pasted image 20240310024544.png",
+    "Old articles/A political history of premodern India (1200 BC - 1756).md",
+    "_attachments/old maps",
+    "Untitled",
+    "_attachments/stock photos",
+    "HTML import",
+    "Articles/A short bibiliography of good sources for Indian history.md",
+    "Story notes/quotes.md",
+    "Articles/Notes on barbarians.md",
+    "Story notes/Story notes.md",
+    "Story notes/To-do.md",
+    "_attachments",
+    "Articles/Early Vedic society and theological developments.md",
+    "Articles/Estimating Mauryan-era incomes from the weight of a mung bean.md",
+    "Old articles/Some maps to visualize India in antiquity.md",
+    "Old articles",
+    "Welcome.md",
+    "Articles/The early development of Indian philosophy.md",
+    "Articles/Notable features of premodern Indian civilization.md",
+    "Articles/Indian history myths, narratives and overcorrections.md",
+    "Articles/3 pitfalls to avoid in reading Indian history.md",
+    "History/Early Vedic society and theological developments",
+    "History/Some maps to visualize India in antiquity"
+  ]
+}
