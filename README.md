@@ -12,11 +12,11 @@ Docs will be posted on my [substack](srajma.github.io/blog/) when complete, and 
         1. [The early development of Indian philosophy](Articles/features/hinduism/philosophy.md) 🏗️❗
         2. [Early Vedic society and theological developments](Articles/features/hinduism/theology.md) 🏗❗
     2. The foreign relations of the Ancient Indians
-        1. Axial age Indian influences on the Western realms 🏗️
+        1. [Axial age Indian influences on the Western realms](Articles/features/foreign/axial.md) 🏗️
         2. Ancient Indian roads and ships 🏜️
         3. Greeks and Zoroastrians in Classical India 🏜️
-        4. The Sanskritization of the Overland and Maritime Silk Roads (+explorers) 🏗️
-        5. Foreign accounts of India 🏜️
+        4. [The Sanskritization of the Overland and Maritime Silk Roads](Articles/features/foreign/silkrd.md) 🏗️
+        5. [Foreign accounts of India](Articles/features/foreign/accounts.md) 🏜️
     3. Ancient Indian discoveries and inventions 🏜️
 3. [Indian history myths, narratives and overcorrections](Articles/myths/README.md) 🏗️
     1. [Notes on barbarians](Articles/myths/barbarians.md) 🏗️

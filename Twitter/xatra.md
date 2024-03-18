@@ -7,7 +7,7 @@ Announcing the alpha version of `xatra`, a small Python package for building his
 To use, just run `pip install xatra`.
 
 ![india](india.png)
-![silkrd](silkrd.png)
+![silkrd](../_attachments/xatra/silkrd.png)
 ![indosphere](indosphere.png)
 
 ---

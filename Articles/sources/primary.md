@@ -198,5 +198,5 @@ Some useful general resources regarding the scope and size of Indian literature.
 
 - Maurice Winternitz (1905-1920), _A History Of Indian Literature_. Vols I-III: 2134 pages. Full texts from archive.org (vol [I](https://archive.org/details/Winternitz-HistoryOfIndianLiterature3vols), [II](https://archive.org/details/Winternitz-HistoryOfIndianLiterature3vols/Winternitz_A%20history%20of%20indian%20literature%20v2_1933), [III](https://archive.org/details/Winternitz-HistoryOfIndianLiterature3vols/Winternitz_A%20history%20of%20indian%20literature%20v3_1985)). [an overview of Indian literature; original in German]
 - Ganga Ram Garg (1982), _International Encyclopedia of Indian Literature_. 356 pages. Full text from [archive.org](https://archive.org/details/in.ernet.dli.2015.149450/page/n25/mode/2up).
-- Jan Gonda [ed.] (1975-84), _A History of Indian Literature._ 10 volumes.
+- Jan Gonda (ed.) (1975-84), _A History of Indian Literature._ 10 volumes.
 - MD Srinivas (2019), _The Untapped Wealth Of Manuscripts On Indian Astronomy And Mathematics._ 30 pages. Full text from [archive.org](https://archive.org/details/srinivas2019/page/n13/mode/2up). [a recent survey of the current state of Indian manuscripts]

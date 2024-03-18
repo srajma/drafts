@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/sources/primary.md",
+                "file": "Articles/features/foreign/accounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/sources/primary.md",
+                "file": "Articles/features/foreign/accounts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/sources/primary.md",
+                "file": "Articles/features/foreign/accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/sources/primary.md"
+                "file": "Articles/features/foreign/accounts.md"
               }
             }
           }
@@ -162,36 +162,42 @@
   },
   "active": "ba07893e95e6ef53",
   "lastOpenFiles": [
+    "Articles/features/foreign/silkrd.md",
+    "Articles/features/foreign/influences.md",
     "README.md",
+    "Articles/features/foreign/axial.md",
+    "Articles/myths/barbarians.md",
+    "Articles/features/foreign/accounts.md",
+    "_attachments/foreign/debate.png",
+    "_attachments/foreign/sophytes.png",
+    "_attachments/foreign/vratya.jpg",
+    "_attachments/foreign/explorers.png",
+    "_attachments/foreign/indic_maharashtra.png",
+    "_attachments/foreign/kauravya.jpg",
+    "_attachments/xatramaps/silkrd_west.png",
+    "_attachments/xatramaps",
+    "_attachments/foreign/airyanem_vaejah.png",
+    "_attachments/foreign/anuradhapura.png",
+    "_attachments/foreign/27scripts.jpg",
+    "_attachments/foreign",
+    "_attachments/foreign",
     "Articles/sources/primary.md",
+    "Articles/features/foreign",
     "Articles/sources",
     "Articles/features/hinduism/philosophy.md",
     "Articles/features/hinduism/theology.md",
     "Articles/features/hinduism",
     "Articles/features",
-    "Articles/myths/barbarians.md",
     "Articles/myths",
-    "_attachments/diet/F7W5EjOXgAALX6R.jpg",
     "_attachments/diet",
     "Twitter/xatra.md",
     "Twitter/suvarnabhumi.md",
     "Twitter/sanudasa.md",
     "Twitter/diet.md",
-    "_attachments/diet/F7W7HTxXsAARIlB.png",
-    "_attachments/diet/F7W6JbOXIAAMARG.jpg",
-    "_attachments/diet/F7W6IiIW4AA5mrA.jpg",
-    "_attachments/diet/F7W6HE2WUAABaFK.png",
-    "_attachments/suvarnabhumi/F3l0UxYX0AE8f6F.png",
     "_attachments/suvarnabhumi",
-    "_attachments/suvarnabhumi/F3mZXyPXYAApmVg.png",
-    "_attachments/suvarnabhumi/F3lyiGSXUAAdXpe.png",
-    "_attachments/suvarnabhumi/F3llGusX0AAt8Ua.png",
-    "_attachments/suvarnabhumi/F3ldy3dWEAIG_Jf 1.png",
-    "_attachments/sanudasa",
     "Articles/sources/secondary.md",
     "Articles/features/README.md",
     "Articles/myths/README.md",
-    "Twitter",
     "Articles/README.md",
     "Old/income.md",
     "Old/maps.md",
@@ -200,11 +206,7 @@
     "Articles.md",
     "Story notes/misc stories plans.md",
     "Story notes/maurya plan.md",
-    "_attachments/xatra",
-    "_attachments/New folder",
     "Story notes/quotes.md",
-    "Story notes/Story notes.md",
-    "Story notes/To-do.md",
-    "Welcome.md"
+    "Story notes/Story notes.md"
   ]
 }

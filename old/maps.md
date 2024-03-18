@@ -120,7 +120,7 @@ VS Agarwala (1953), _India as known to Pāṇini_. 594 pages. Full text from [ar
 
 ## [fig:maritime_trade]
 
-![sea routes](sea%20routes.png)
+![sea routes](../_attachments/old%20maps/sea%20routes.png)
 
 **Canonical sources:**
 
