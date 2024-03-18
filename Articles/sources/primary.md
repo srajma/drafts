@@ -33,7 +33,7 @@ Something I’d quite like to see is a fully functional and complete portal of d
     - `//kausitaki etc.` 7 known; included in the Upaniṣad collection above
 - `/sutra/grhya, /sutra/dharma, /sutra/srauta` (Kalpa-)sūtra texts: Gṛhyasūtras (c. 800—500 BC) + Dharmasūtras (600—200 BC) + Śrautasūtras (800—200 BC) + Śulbasūtras (appendices of Śrautasūtras)
     - [//baudhayana etc.]
-    - Full texts from wisdomlib.org ([Gṛhya and Dharma](https://www.wisdomlib.org/dharmashastra); this collection also includes other texts, which in our classification instead come under Dharma_śāstra_)
+    - Full texts from wisdomlib.org ([Gṛhya and Dharma](https://www.wisdomlib.org/dharmashastra); this collection also includes other texts, which in our classification instead come under Dharma-_śāstra_)
     - Full texts from sacred-texts.com (Gṛhya — vols [I](https://sacred-texts.com/hin/sbe29/index.htm), [II](https://sacred-texts.com/hin/sbe30/index.htm); Dharma — vols [I](https://sacred-texts.com/hin/sbe02/index.htm), [II](https://sacred-texts.com/hin/sbe14/index.htm)).
     - Full Skt for Śrauta: [Baudhāyana](https://rarebooksocietyofindia.org/book_archive/196174216674_10152995231791675.pdf) 800—600 BC, [Apastamba](https://archive.org/details/apastamba-shrauta-sutra-san-eng-transl-by-g-u-thite-2004-2-volumes-in-1-pdf-file-1536-pages/page/16/mode/2up) 800—600 BC, [Māṇava](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/manss/manss.htm) c. 500 BC, Kātyāyana c. 300 BC)
     - Full Skt for Śulba: [Baudhāyana](https://hinduism.stackexchange.com/questions/12147/online-version-of-sulba-sutras-by-baudhayana), Apastamba, Māṇava, [Kātyāyana](https://archive.org/details/in.ernet.dli.2015.142145/page/n61/mode/2up)
