@@ -46,3 +46,9 @@ Mostly to be used as content for full-form posts in future.
 3. [sanudasa](Twitter/sanudasa.md)
 4. [diet](Twitter/diet.md)
 
+**TODO**
+- [ ] `xatra`: make maps
+- [ ] Remaining bits of primary sources article
+- [ ] Buddhist and classical philosophy & sources thereof
+- [ ] Remaining bits of theology article
+- [ ] Polish Maurya with better imgs
