@@ -33,3 +33,11 @@ Kingship is rather strange.
   
 
 Xuanzang: made light of the things of the present world
+
+**Orientalism**
+
+As with all such characterizations of India though, there is a significant sense of “what is true in India is not true in India” to keep in mind – it’s a large civilization, ours is perhaps the most “high-variance” of all the races of the world, and there were often distinct subcultures that competed with each other in the same arena.
+
+This nuance applies whenever people say things about how ancient Indian culture treated free speech vs blasphemy, economic expansion vs environmentalism, sexual modesty vs feminist or libertine ideals, the life of a householder vs ascetism/voluntary poverty, rationality vs mysticism, etc.
+
+To portray the whole of Ancient Indian civilization as having one view, like the old Orientalists did, is suspect (especially so when you see people claiming that it had a view on some very modern political issue, like random stuff about gay and trans).

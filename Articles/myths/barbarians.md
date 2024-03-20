@@ -3,8 +3,6 @@
 
 ## Alexander
 
-[ii] **On Alexander’s retreat from India**
-
 Greco-Roman sources, in chronological order of events – tell me if I’ve missed anything:
 
 [At Aornos, in the part of Gāndhāra West of the Indus river, ruled by the Aśvakāyanas] He offered sacrifice upon it, and arranged a fort, committing the superintendence of the garrison to Sisicottus, who long before had deserted from the Indians to Bessus in Bactra, and after Alexander had acquired possession of the country of Bactra, entered his army and appeared to be eminently trustworthy.
@@ -40,8 +38,6 @@ Now, I am something of a fanboy of Alexander myself, but I find the Greek record
 ·       He made no attempt to take Sattagydia, or the Kekaya country (which I have labelled as part of Gāndhāra in this map but there is no real basis for this).
 
 ·       The picture of Alexander’s territories in India at the time of his departure were obviously unstable and in constant rebellion when he left, very different from the situation back in the West. Alexander would have known that he hadn’t really consolidated his rule.
-
-NORTH WEST MAP!!! TODO XATRA
 
 **My take:** All of Alexander’s actions after his Pyrrhic victory against Porus were taken out of _desperation_ — out of having his army seriously weakened, and from having his supply lines cut off by Śaśigupta (which was already quite unstable, e.g. depending on a road that his own army had to build, Arrian 4.30) — to find and establish new routes back to Babylon. All of his further Eastward marches are false, or they were really assignments he gave to Porus or Eudemus – instead he travelled Southward.
 
@@ -105,7 +101,7 @@ It is worth having a comparative perspective on things. Here is a full list of p
 
 ·       **Romania: 200 years.** Hun (380 - 450), Avar (570 - 800)
 
-You will note that in terms of resisting foreign invasions, India was on par with Europe, vastly stronger than the Middle East, and weaker than China. Some opinionated ranting about the absolute state of Indian history has been relegated to a footnote.[[ii]](#_edn2)
+You will note that in terms of resisting foreign invasions, India was on par with Europe, vastly stronger than the Middle East, and weaker than China. Some opinionated ranting about the absolute state of Indian history has been relegated to a footnote.
 
 Generally, India was _politically_ insular (didn’t invade much, didn’t get conquered much), culturally and scientifically/technologically it was very influential on the rest of the world, but slow in uptaking _from_ the rest of the world.[[iii]](#_edn3)
 
@@ -115,28 +111,8 @@ How can this happen? That the faithless [Arabs] will come to a land … from the
 
 [—Ferdowsi, in the Shahnameh, c. 1000](https://twitter.com/razibkhan/status/1655380921174876161)
 
-  
-
----
-
-[](#_ednref1) 
-
-[i] **Who’s a barbarian?**
+**Who’s a barbarian?**
 
 Note that this only counts _occupations_, so e.g. the Indo-Greek invasions of Mathura, or the Achaemenid invasions of Greece are not counted – see [here](https://www.reddit.com/r/IndiaSpeaks/comments/rh8dmd/vikramaditya_reconstructing_the_interregnum_of_57/) for a fuller analysis. I have counted the Western Satraps even though they were probably of significant Apracarāja (Aśvaka) and Abhira (Kashmiri) heritage.
 
 It’s also worth noting that in the case of other civilizations, foreign conquests were so thorough we don’t even regard them as conquests anymore – e.g. the fall of Rome to Christianity, the Islamic conquest of the once-Christian Middle East, many Byzantine rulers were from modern-day Turkey, the complete replacement of the Austronesian civilizations of Southern China by Han expansion. We think about foreign invasions of India at all, only because we actually resisted them enough to still consider them “foreign".
-
-[[ii]](#_ednref2) **The absolute state of Indology**
-
-It also gives us a picture of how weird the focus of Indian history is: it’s as if Western schools focused their entire attention on the genealogy of the Sultans of Córdoba, historians attributed every achievement of the Classical West to the Phoenicians and Achaemenids, with a brief mention of Emperor Constantine, and the only people who opposed this were raitas going “Shouldn’t we also talk about heroes who resisted these invasions like Isabella I and Leonidas?” and cranks who drew spray-painted maps in MS Paint of Alexander the Great conquering Korea.
-
-In general, all your perceptions of Indian history are wrong. It’s just really hard for a modern Indian to culturally relate to an Indian writing in 500 AD, who lived in a world where Indian culture was the high culture of all Asia, where Indian merchants dominated global trade, where Indian texts on science and statecraft were standard reading for everybody who was anybody, where even the Chinese didn’t dare to convict an Indian Brahmin who accidentally killed the Emperor, out of fear of disrupting relations with India.
-
-[[iii]](#_ednref3) **Orientalism**
-
-As with all such characterizations of India though, there is a significant sense of “what is true in India is not true in India” to keep in mind – it’s a large civilization, ours is perhaps the most “high-variance” of all the races of the world, and there were often distinct subcultures that competed with each other in the same arena.
-
-This nuance applies whenever people say things about how ancient Indian culture treated free speech vs blasphemy, economic expansion vs environmentalism, sexual modesty vs feminist or libertine ideals, the life of a householder vs ascetism/voluntary poverty, rationality vs mysticism, etc.
-
-To portray the whole of Ancient Indian civilization as having one view, like the old Orientalists did, is suspect (especially so when you see people claiming that it had a view on some very modern political issue, like random stuff about gay and trans).

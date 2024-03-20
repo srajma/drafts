@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4560dce29eed36ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sandbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "sandbox.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "sandbox.md"
               }
             }
           }
@@ -147,18 +160,26 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1863b7d6da1e1c59",
+  "active": "4560dce29eed36ca",
   "lastOpenFiles": [
-    "Articles/README.md",
     "README.md",
-    "Fiction/TODO.md",
-    "Articles/features/hinduism/theology.md",
-    "vii.md",
+    "sandbox.md",
+    "Articles/sources/primary.md",
+    "Articles/README.md",
+    "Articles/features/foreign/axial.md",
     "Articles/features/foreign/accounts.md",
+    "Articles/features/hinduism/theology.md",
+    "Articles/features/hinduism/philosophy.md",
+    "Articles/myths/README.md",
+    "Articles/myths/barbarians.md",
+    "Articles/features/README.md",
+    "_thoughts/Untitled.md",
+    "_thoughts",
+    "Articles/sources/secondary.md",
+    "Fiction/TODO.md",
+    "vii.md",
     "Articles/features/foreign/silkrd.md",
     "Articles/features/foreign/influences.md",
-    "Articles/features/foreign/axial.md",
-    "Articles/myths/barbarians.md",
     "_attachments/foreign/debate.png",
     "_attachments/foreign/sophytes.png",
     "_attachments/foreign/vratya.jpg",
@@ -172,10 +193,8 @@
     "_attachments/foreign/27scripts.jpg",
     "_attachments/foreign",
     "_attachments/foreign",
-    "Articles/sources/primary.md",
     "Articles/features/foreign",
     "Articles/sources",
-    "Articles/features/hinduism/philosophy.md",
     "Articles/features/hinduism",
     "Articles/features",
     "Articles/myths",
@@ -184,16 +203,10 @@
     "Twitter/suvarnabhumi.md",
     "Twitter/sanudasa.md",
     "Twitter/diet.md",
-    "_attachments/suvarnabhumi",
-    "Articles/sources/secondary.md",
-    "Articles/features/README.md",
-    "Articles/myths/README.md",
     "Old/income.md",
     "Old/maps.md",
     "Old/political_history.md",
     "().md",
-    "Articles.md",
-    "Story notes/misc stories plans.md",
-    "Story notes/maurya plan.md"
+    "Articles.md"
   ]
 }
