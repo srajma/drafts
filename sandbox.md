@@ -1,4 +1,4 @@
-testing testing [foo foo?][#foo]
+testing testing [foo foo?][#MD1]
 
 
-[[#foo|Foo foo foo]]
+<a name=”MD1”>[MD1]: bla bla test</a>
