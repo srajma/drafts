@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ec539770a31f02",
+        "id": "83f06d3b34ddb3e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1863b7d6da1e1c59",
+            "id": "8d32de3ce7b4cbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Old/political_history.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Old/political_history.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Old/political_history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Old/political_history.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,11 +146,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1863b7d6da1e1c59",
+  "active": "8d32de3ce7b4cbc6",
   "lastOpenFiles": [
+    "_attachments/names of india.png",
+    "_attachments/writing systems.png",
+    "_attachments/india europe.png",
+    "Old/maps.md",
+    "_attachments/language families today.png",
+    "_attachments/city sizes.png",
+    "_attachments/snippetry/harem in dwaraka.png",
+    "_attachments/snippetry",
+    "_attachments/snippetry/archaeological cultures.png",
+    "_thoughts/mapsources.md",
+    "README.md",
+    "_thoughts/Untitled.md",
     "sandbox.md",
     "[.md",
-    "README.md",
     "Articles/sources/primary.md",
     "Articles/README.md",
     "Articles/features/foreign/axial.md",
@@ -161,7 +171,6 @@
     "Articles/myths/README.md",
     "Articles/myths/barbarians.md",
     "Articles/features/README.md",
-    "_thoughts/Untitled.md",
     "_thoughts",
     "Articles/sources/secondary.md",
     "Fiction/TODO.md",
@@ -171,14 +180,7 @@
     "_attachments/foreign/debate.png",
     "_attachments/foreign/sophytes.png",
     "_attachments/foreign/vratya.jpg",
-    "_attachments/foreign/explorers.png",
-    "_attachments/foreign/indic_maharashtra.png",
-    "_attachments/foreign/kauravya.jpg",
-    "_attachments/xatramaps/silkrd_west.png",
     "_attachments/xatramaps",
-    "_attachments/foreign/airyanem_vaejah.png",
-    "_attachments/foreign/anuradhapura.png",
-    "_attachments/foreign/27scripts.jpg",
     "_attachments/foreign",
     "_attachments/foreign",
     "Articles/features/foreign",
@@ -186,14 +188,10 @@
     "Articles/features/hinduism",
     "Articles/features",
     "Articles/myths",
-    "_attachments/diet",
     "Twitter/xatra.md",
     "Twitter/suvarnabhumi.md",
     "Twitter/sanudasa.md",
     "Twitter/diet.md",
-    "Old/income.md",
-    "Old/maps.md",
-    "Old/political_history.md",
-    "().md"
+    "Old/income.md"
   ]
 }

@@ -116,7 +116,7 @@ Are related, and that the tribe is of Austro-asiatic, i.e. “Para-Munda” orig
 
 **Material cultures:** Perhaps we can get some hints from looking at archaeology? Here is a list of material cultures from North India known to archaeologists:
 
-![archaeological cultures.png](archaeological%20cultures.png)
+![archaeological cultures.png](../../../_attachments/snippetry/archaeological%20cultures.png)
 
 Table S1 of [9x.1]
 

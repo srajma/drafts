@@ -85,7 +85,7 @@ There are several different genres of traditional Indian literature on foreign r
 
 The absence of a standardized name for Sogdia in Indian literature (except for Ferghana, mentioned as Prakaṇva by Pāṇini, see e.g. VS Agarwala) is certainly surprising given the close relationship between India and the region (c.f. the Buddhist monk Kumarajiva), although it is referenced often in Chinese Buddhist literature. This list in [/in/sec/jaina/sveta/a8], of sources of women in a harem in Dvāraka, is illuminating:
 
-![harem in dwaraka](harem%20in%20dwaraka.png)
+![harem in dwaraka](../_attachments/snippetry/harem%20in%20dwaraka.png)
 
 source: [/in/sec/jaina/sveta/a8](/in/sec/jaina/sveta/a8)(https://archive.org/details/antagadadasaoanu17royauoft/page/28/mode/2up)
 
@@ -192,11 +192,11 @@ One may note the destruction of Taxila by the Huns, and the emergence of Frontie
 Not included: Chinese cities, because their size would dwarf everything else here. This was mostly due to Chinese flair for grandeur: Chang'an in the 2nd century BC had much fewer people than Pāṭaliputra or Rome, but was 36 km2 in area; in the 6th century it was an enormous 84 km2.
 
 ## [fig:writing_systems_modern]
+![](../_attachments/mapchart/writing_systems/v3.png)
 
-![writing systems](writing%20systems.png)
 
   
 
 ## [fig:meme_map]
 
-![india europe](india%20europe.png)
+![](../_attachments/mapchart/schizo/europe.png)
