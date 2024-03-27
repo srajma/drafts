@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "83f06d3b34ddb3e0",
+        "id": "c8a660a329363504",
         "type": "tabs",
         "children": [
           {
-            "id": "8d32de3ce7b4cbc6",
+            "id": "811ca3ce5565bf85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old/political_history.md",
+                "file": "Twitter/suvarnabhumi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862179129a039b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_thoughts/mapsources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old/political_history.md",
+                "file": "Twitter/suvarnabhumi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old/political_history.md",
+                "file": "Twitter/suvarnabhumi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old/political_history.md"
+                "file": "Twitter/suvarnabhumi.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,20 +159,33 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8d32de3ce7b4cbc6",
+  "active": "811ca3ce5565bf85",
   "lastOpenFiles": [
-    "_attachments/names of india.png",
-    "_attachments/writing systems.png",
-    "_attachments/india europe.png",
+    "New Text Document.txt",
+    "_attachments/suvarnabhumi/F3lTJp7WoAAwUQQ.png",
+    "Twitter/suvarnabhumi.md",
     "Old/maps.md",
-    "_attachments/language families today.png",
-    "_attachments/city sizes.png",
-    "_attachments/snippetry/harem in dwaraka.png",
-    "_attachments/snippetry",
-    "_attachments/snippetry/archaeological cultures.png",
+    "Old/political_history_flowchart.md",
     "_thoughts/mapsources.md",
+    "_thoughts/visualizing the ancients.md",
+    "Articles/features/README.md",
+    "_thoughts/self-awareness.md",
+    "_attachments/stock photos/1bb014ea7667a9a88f3ee3220549d2b5_MD5.png",
+    "Old/vikramaditya.md",
+    "_attachments/stock photos/ayudhajivi.jpeg",
+    "_attachments/stock photos/image1.jpeg",
     "README.md",
-    "_thoughts/Untitled.md",
+    "Articles/myths/barbarians.md",
+    "_attachments/stock photos/d763a3c1935720a7e19db562e1f7c5e2_MD5.png",
+    "_attachments/stock photos/c80e3cfe8c4537c06255d5b0a2137c07_MD5.png",
+    "_attachments/city sizes.png",
+    "_attachments/stock photos/0pa3qvurwlv71.png",
+    "_attachments/stock photos/5gj33yr0vlv71.png",
+    "_attachments/stock photos/3dfmk29hylv71.png",
+    "Old/political_history.md",
+    "_attachments/Untitled",
+    "Old/income.md",
+    "_attachments/snippetry",
     "sandbox.md",
     "[.md",
     "Articles/sources/primary.md",
@@ -169,29 +195,17 @@
     "Articles/features/hinduism/theology.md",
     "Articles/features/hinduism/philosophy.md",
     "Articles/myths/README.md",
-    "Articles/myths/barbarians.md",
-    "Articles/features/README.md",
     "_thoughts",
     "Articles/sources/secondary.md",
     "Fiction/TODO.md",
     "vii.md",
     "Articles/features/foreign/silkrd.md",
-    "Articles/features/foreign/influences.md",
-    "_attachments/foreign/debate.png",
-    "_attachments/foreign/sophytes.png",
-    "_attachments/foreign/vratya.jpg",
     "_attachments/xatramaps",
     "_attachments/foreign",
     "_attachments/foreign",
     "Articles/features/foreign",
     "Articles/sources",
     "Articles/features/hinduism",
-    "Articles/features",
-    "Articles/myths",
-    "Twitter/xatra.md",
-    "Twitter/suvarnabhumi.md",
-    "Twitter/sanudasa.md",
-    "Twitter/diet.md",
-    "Old/income.md"
+    "Articles/features"
   ]
 }

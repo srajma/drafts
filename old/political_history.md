@@ -22,7 +22,7 @@ A brief walkthrough of Indian political history, focusing on the actually import
 
 The political system of Bronze Age India was probably a plutocracy.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](41jg05m5tlv71.png)](https://preview.redd.it/41jg05m5tlv71.png?width=584&format=png&auto=webp&s=a93ff76ffbcb4b05bb2a7d676c794e3ba6e82793)
+![](../_attachments/stock%20photos/fd145eb4b13659aca0f8b81b268bce37_MD5.png)
 
 In its peak, the Indus Valley civilization was the source of various technological innovations particularly in the fields of agriculture, water management, infrastructure and measurement. As the Indus Valley script remains undeciphered and very little of its writing remains, it is harder to comment on its academic achievements, most of these are first known from Mesopotamia (Egypt is a somewhat overrated Bronze Age civilization – it showed very little urbanization and was also a late adopter of the wheel; it just has an impressive archaeological record because of its palace economy).
 
@@ -44,13 +44,13 @@ Following the collapse, the various peoples of the old Bronze Age world construc
 
 In India, while Vedic literature only mentions the drying of the Sarasvati river, bardic legend postulated a conspiracy that eventually formed the basis of the _Mahabharata_: briefly, Krishna, the ruler of Dwaraka, creates an elaborate plot to manipulate the states of the world into a costly war to wipe out the prevailing political establishment and rid the world of the cultural degradation of the Late Bronze Age so that civilization can start anew.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](hvihy3x65mv71.png)](https://preview.redd.it/hvihy3x65mv71.png?width=675&format=png&auto=webp&s=2f2158114abdde898ade23e5fd2870dd05ee744b)
+![](../_attachments/stock%20photos/f9d1d7429910122b9282a17bebf079d8_MD5.png)
 
 The Mahabharata is a brilliant piece of literature: it has intelligent and ambitious characters (Krishna, Shakuni), passionate characters (Arjuna, Draupadi, Abhimanyu, Drupada, Shikhandi), and NPCs (Yudhishtira, the entire Kuru state), each with their own goals and schemes, only to ultimately find these schemes as tools for Krishna’s grand agenda; its characters plot and strategize, rather than just find their luck at the mercy of the plot; and the text was eventually expanded to cover various philosophical themes (most famously the Bhagavad Gita) as well as various regional tales of India. The postulation of a conspiracy, however, is likely to be a simplification of emergent social phenomena, and specific characters are likely to be personifications of such phenomena, an example of the Great Man Theory.
 
 For years to come, the Late Bronze Age collapse inspired the pessimistic myth of the Four Ages in both India and Greece, as people extrapolated the decline in prosperity and order to a continuous decline in human morality from the beginning of time.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](cv3q79edulv71.png)](https://preview.redd.it/cv3q79edulv71.png?width=614&format=png&auto=webp&s=064fb2c3a147a1d2aebe1da806c277b67d8ec3ff)
+![](../_attachments/stock%20photos/24a6ee01881f94b3b78648ddfb669cc4_MD5.png)
 
 And then around 1200 BC, man struck iron.
 
@@ -58,13 +58,13 @@ And then around 1200 BC, man struck iron.
 
 Iron smelting was simultaneously invented in India and by the Hittites, and spread so rapidly across the world that the precise location of its invention cannot be pinned down, and by 800 BC it had spread across almost the entirety of the old world. While iron, mainly meteoritic iron had been used in small quantities in some sites in India and Egypt for millennia, the large scale production of iron for tools and weapons brought vast social and economic changes throughout the world. Bellary (let’s call it Kishkinda), an early site in the Deccan, was one of the earliest centers of iron mining, and Southern India remained the world’s premier metallurgical center for millennia to come.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](xu5zsy3lulv71.png)](https://preview.redd.it/xu5zsy3lulv71.png?width=950&format=png&auto=webp&s=16059bb4a4a1582a25a71f8884cd9228f4fa81b7)
+![](../_attachments/stock%20photos/14787c509d4e4100e20009f4ae691a86_MD5.png)
 
 Iron was cheaper and far more abundant than bronze, making it accessible to the folk outside the nobility. Large quantities of forest could be cleared for the first time, allowing for large-scale settlement and urbanization of regions outside of the “Desert Stretch”. As metal was no longer monopolized by the state, the importance of private guilds and merchants increased relative to governments and nobility, leading to the development of cities far larger than ever seen before.
 
 This radical change in the way of thought about social organization occurred in the Kuru kingdom (around modern-day Delhi) c. 1000 BC. While the traditional Aryan political system had revolved around the nobility, at some point some people in the Kuru kingdom decided that they in fact valued knowledge and learning more than nobility and government, and they began ambitious project to compile all the known knowledge of the time into a corpus of literature known as the _Vedas_ (lit. knowledge).
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](5gj33yr0vlv71.png)](https://preview.redd.it/5gj33yr0vlv71.png?width=3888&format=png&auto=webp&s=b5dbd468cd67346de0efe70910248627a0669f17)
+![](../_attachments/stock%20photos/879a62c0bcc131da75855193c6343e4c_MD5.png)
 
 This culture, the Vedic culture, which came to expand Eastward, to _win_ and to dominate Indian politics and thought for centuries forth, was the ideological manifestation of the brave new world that was the iron age.
 
@@ -76,7 +76,7 @@ A host of advancements, known as the _Second Urbanization_, began around the 8th
 
 Ancient India as we know it was born.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](ni0lt1r39dx71.png)](https://preview.redd.it/ni0lt1r39dx71.png?width=750&format=png&auto=webp&s=632dc3cc67c7987c8ba2547aa13d0e93ea7c585c)
+![](../_attachments/stock%20photos/d763a3c1935720a7e19db562e1f7c5e2_MD5.png)
 
 Large cities of Iron Age India, per archaeological excavations. The Mahajanapada kingdoms, that are of central focus in Buddhist texts, are a bit biased towards the cities of the region east of Varanasi.
 
@@ -90,17 +90,17 @@ The epic narrative _Ramayana_ attributes the advancements of this period to the 
 
 Republics also became commonplace, alongside monarchies, during the Middle Iron Age – apart from some sparse and mountainous states (e.g. Buddha’s Shakya kingdom), the states of Kuru, Panchala, Mathura, Kushinagara, Vaishali and Kamboja followed republic or king consul constitutions at various points, with Vaishali probably a direct democracy. Some people also like pointing out that among the scholars who challenged Yajnavalkya in debate were two women, Gargi Vachaknavi and Maitreyi, the latter of whom would later become his wife.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](0pa3qvurwlv71.png)](https://preview.redd.it/0pa3qvurwlv71.png?width=480&format=png&auto=webp&s=55b14b007a00722805d3154d5e3b7951f33b78e3)
+![](../_attachments/stock%20photos/f51d61e4436df5420f31fd0889122c65_MD5.png)
 
 **Late Iron Age (492 BC – 323 BC)**
 
 The Late Iron Age begins with the coronation of Ajatashatru of Magadha. In the 5th century BC, all the states of Northern India bar Magadha were dominated by the prosperous and urban Vedic culture, that among other features placed Brahmins at the top of the caste system. The relative backwater of Magadha, which retained the more traditional kshatriya-centric pre-Vedic system, was the arch-enemy of Vedic civilization in the latter’s literature, and its expansion tilted the political balance between the three castes.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](m0yus0hnxlv71.png)](https://preview.redd.it/m0yus0hnxlv71.png?width=800&format=png&auto=webp&s=07ea76c3b680d4cbdea96d142d3d18764e71744c)
+![](../_attachments/stock%20photos/574ffb2d208622a9c1cde7c1379ad268_MD5.png)
 
 Ajatashatru was a brilliant inventor, who created several military contraptions including the catapult and the famous scythed chariot. He then used these devices to go on a murderous rampage, conquering the states of Champa, Vaishali, Varanasi, Malla and even Ayodhya. The city of Mathura resisted Magadhan conquest for 150 years, a feat that is attributed to the celebrated Vrishni heroes – Samkarshana, Vāsudeva, Pradyumna and Aniruddha. The cult of Vāsudeva became particularly influential, and would eventually form the basis of the legend of Krishna-worship.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](q5aiw06xxlv71.png)](https://preview.redd.it/q5aiw06xxlv71.png?width=1200&format=png&auto=webp&s=4a5aa480401414db520424098b01cce4747e1e7b)
+![](../_attachments/stock%20photos/9f97178deb2f362941aa5ee50dfea48f_MD5.png)
 
 Ajatashatru’s expansion brought him into tussle with another rival empire-builder, Pradyota of Ujjain, leading to the Avanti-Magadhan wars. The Magadhan (Pataliputra) Empire and the Ujjain Empire would form two of India’s three longest-lasting empires alongside the later Deccan Empire, lasting under various dynasties for a period of nearly 2000 years, the Imperial Age of India.
 
@@ -108,13 +108,13 @@ The Late Iron Age also saw the beginning of West and Central Asian raids in Nort
 
 Meanwhile the kingdom of Anga in modern-day Bengal/eastern Bihar transformed into a powerful thalassocracy whose merchants traded with distant lands in South East Asia, beginning the Indianization process in South-East Asia. The founding legends of many South-East Asian states include an origin at Anga: Funan (Cambodia) was supposedly established by the Brahmin merchant Kaundinya who married the local Naga princess Soma after defeating her pirate army; its capital Champa is named after Anga’s capital of the same name. A similar story comes from Sri Lanka, but with a prince instead of a merchant and a Yakshini instead of a Naga.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](gu6wseebylv71.png)](https://preview.redd.it/gu6wseebylv71.png?width=1920&format=png&auto=webp&s=3f0c02792b22929edf812bd4fcb1abe59b7e7e18)
+![](../_attachments/stock%20photos/c80e3cfe8c4537c06255d5b0a2137c07_MD5.png)
 
 **Classical Age: First Golden Age (322 BC – 269 BC)**
 
 The history of Classical India begins with the polymath Chanakya: father of economics, founder and first Prime Minister of the pan-Indian Maurya Dynasty, father of cryptography, and a brilliant military tactician.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](3dfmk29hylv71.png)](https://preview.redd.it/3dfmk29hylv71.png?width=900&format=png&auto=webp&s=dda21d39dd06143712ba338cd437b60729134341)
+![](../_attachments/stock%20photos/8a718dba229fc30d35d2e2dc3b56b86f_MD5.png)
 
 Chanakya was probably a Deccanite Brahmin (based on Jain sources and modern analyses of the context of the Arthashastra) – it is generally agreed that he studied in Taxila, and was strongly influenced by both Carvaka and Hindu philosophy. His magnum opus, the _Arthashastra_ (“Science of Wealth”), begins with salutations to Brihaspati (the legendary founder of the Carvaka philosophy); it declares economics as the fundamental social science, wealth as an encapsulation of human goals, and its maximization the goal of government policy. However, he mentions his differences with the Carvakas (the “school of Brihaspati”) on areas where he displays a more conservative Hindu outlook, e.g. accepting the fundamental role of the physical sciences (“Anvikshaki”) as well as of morality.
 
@@ -131,7 +131,7 @@ The precise sequence of events that lead to the establishment of the Maurya Dyna
 - Much of Chanakya’s success involved complicated manipulations of various governments including Central Asians, Himalayans, Persians, Greeks and Magadha rather than a brute force attack.
 - Chandragupta’s army when invading Magadha included Greek and other mercenaries.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](7hpsfidhzlv71.png)](https://preview.redd.it/7hpsfidhzlv71.png?width=915&format=png&auto=webp&s=479adbd499ea5b8c66c1e92ea6ffe518c656a4b8)
+![](../_attachments/stock%20photos/43f8a57f1ca07662f20234eeb2730f19_MD5.png)
 
 The early Mauryan period (under the rule of emperors Chandragupta and Bindusara) was a golden age in Indian history, with massive economic and infrastructural expansion and the development of various new financial innovations such as private corporations, cheques and the double-entry bookkeeping system. Panini’s formalization of Classical Sanskrit grammar dates to this period, as does the mathematician Pingala who set the groundwork for later classical Indian mathematical traditions.
 
@@ -156,7 +156,7 @@ The late period of the Mauryan dynasty, starting with the coronation of Ashoka t
 - Another genocide against “fake Buddhists” (people who pretended to be Buddhist to receive government funds)
 - Eventually bankrupted the empire with his fiscally irresponsible programs
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](6nxzhoxszlv71.png)](https://preview.redd.it/6nxzhoxszlv71.png?width=602&format=png&auto=webp&s=d84bc16c437f7681f7b3fb97106c4b815bf0b7e3)
+![](../_attachments/stock%20photos/a035e718f89bbaf8c1ddf03952c659e7_MD5.png)
 
 The civil unrest and tensions eventually culminated in the Great Civil War of 230 BC, resulting in a tripartite split of the empire. Although the Brahmins were not themselves persecuted by Ashoka, they pretty much led the revolution against what had become of the Mauryan dynasty. The South seceded, lead by Simuka, who founded the Deccan Empire. Back at Pataliputra, an anti-Buddhist faction formed (supported most famously by Queen Tishyaraksha and her son Dasharatha), and various revolts and uprisings throughout the empire resulted in a split of the remaining Northern empire between Ashoka’s heirs Dasharatha and Samprati, who ruled from Magadha and Ujjain respectively.
 
@@ -172,7 +172,7 @@ The first of these invaders were the Greco-Bactrians c. 180 BC, who plundered Ma
 
 Next came the Scythians c. 80 BC, who plundered the western country-side and briefly even occupied Mathura c. 60 BC.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](tlct39b30mv71.png)](https://preview.redd.it/tlct39b30mv71.png?width=1200&format=png&auto=webp&s=08945f45459286b351da9b14072b25f9520d03c5)
+![](../_attachments/stock%20photos/9393869ca0050420f455c8b6802e899a_MD5.png)
 
 The key political figure from the period is Vikramaditya, who re-established the ancient Ujjain Empire and conquered the Scythian tribes c. 57 BC. Vikramaditya became one of the most celebrated heroes in Indian history – his name became a honorific title throughout India (analogous to Caesar, or Sikandar), and his victory over the Scythians marks the epoch of the Indian calendar. He heavily employed Sanskrit in administration (which had previously only been the language of academia), and Vaishnavism grew in importance.
 
@@ -184,7 +184,7 @@ They were particularly impressed by the toilet, which they held in ritual import
 
 Meanwhile, the more peaceful South had risen as the center of worldwide trade and commerce, as well as a host for Jewish and Christian refugees from the Roman Empire. The Deccan Empire facilitated the transmission of ideas between North and South, and traded extensively with the Romans as well as the East. The Deccan was a hub of metallurgy, alchemy and mechanical engineering, and Pratishthana was major a center of philosophy. In particular, the region gave birth to the Mahayana school of Buddhism, which was more open for debate and interaction with other Indian philosophies than was traditional Buddhism.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](p6hr49yv0mv71.png)](https://preview.redd.it/p6hr49yv0mv71.png?width=800&format=png&auto=webp&s=009ca27c920c13317e6b3f3d1273fcf61ec9c874)
+![](../_attachments/stock%20photos/872264b18ccf0937e8771d8ffaf08acf_MD5.png)
 
 Kalinga also reached a period of prosperity, patronizing in particular Jain scholars; while Brahmin scholars seemed to have turned their eye away from mathematics in this period, instead focusing on things like legal theory, the baton was picked up by Jain mathematicians who made a wide array of contributions to the traditional subjects of Indian mathematics.
 
@@ -194,7 +194,7 @@ The Magadhan Empire re-rose to prominence under the Gupta dynasty. Like the Maur
 
 The Gupta period saw significant advances in mathematics, astronomy and metallurgy as well as the flourishing of literature and culture. Many of India’s greatest classical scientists (e.g. Aryabhata, Varahamira) date to this period, and the university of Nalanda was founded during the period. Much of earlier literature – including academic treatises and epics – were canonized in this period.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](ctq9j8z91mv71.png)](https://preview.redd.it/ctq9j8z91mv71.png?width=800&format=png&auto=webp&s=63ecf9d1347beb34f3d749205eea26ba33f974b3)
+![](../_attachments/stock%20photos/a4f6e678e7f8a5a7201ff89d5f40b8f2_MD5.png)
 
 This period also saw the convergence of Vedic and Buddhist philosophies. The Mahayana school that had originated in the South became popular among Buddhist scholars in Gupta universities, and discussed topics of philosophy and logic without too much concern for ascetism. Vedic philosophy, which did not have a formal proselytic tradition to preach to the masses as such, allied itself with various local and rural cults (e.g. various rural cults were unified under the banner of Shaivism, several elite theistic movements were unified under the banner of Vaishnavism). Public Hindu temples became commonplace, tour guides were published and circulated for various cities and sites marketing them as pilgrimage locations. Carvaka was also apparently no longer considered part of the Vedic lore.
 
@@ -214,13 +214,13 @@ The Third Golden Age is the golden age of Southern India, beginning with the asc
 
 In the North-West, Arab invasions slowly expanded Islamic influence in the Pakistan region, but were held off by the Ujjain Empire under the Pratihara (“Gate-keeper”) dynasty. Astronomy continued to flourish in Ujjain even after the fall of the Pratiharas in the 11th century, with the famed scholar-king Bhoja reigning in this period. Meanwhile, the Magadhan Empire was no longer based in Magadha, with their capital now moved into the Anga region under the Pala dynasty. The period saw a 200-year long tripartite war (750–950) between the three empires for control over the Gangetic metropolis of Kannauj.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](s9kvkz5o2mv71.png)](https://preview.redd.it/s9kvkz5o2mv71.png?width=800&format=png&auto=webp&s=97ae4e0e7f92d08dfa193945f4241886b5575c78)
+![](../_attachments/stock%20photos/6baab6716ddfbedc8b097fb5be815eec_MD5.png)
 
 The Vedanta philosophy expanded in popularity among the elite, replacing both more rationalistic schools (such as Nyaya and Samkhya) as well as less rationalistic ones (such as Buddhism). While Shankara’s school of Non-Dualism is still not really theistic in a technical sense, Madhava’s Dualism is thoroughly theistic and religious.
 
 In the Tamil country in the far South, the Chola empire overthrew the reigning Pallavas, bringing an end to six centuries of non-Tamil rule. The Cholas were a powerful imperial power, controlling much of South-East Asia at their peak. The Cholas’ contribution to naval engineering was extensive, and had a large influence on Arab and Chinese shipbuilding.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](e8mco6uy1mv71.png)](https://preview.redd.it/e8mco6uy1mv71.png?width=300&format=png&auto=webp&s=7865872af54b7346c3677a1468d8fb71cb342642)
+![](../_attachments/stock%20photos/2a5aee2012c76b25d3a05050f6dedc6b_MD5.png)
 
 As a result of the historical prominence of Indian merchants (which had albeit declined during this period), Indian mathematics (as well as astronomy, medicine) had a large influence on the Muslim world (the famous developments of the Islamic Golden Age were largely based on Indian innovations) and later the West. The most important of these influences was on Fibonacci, who brought the sciences back into Europe and put an end to the European Dark Ages.
 
@@ -232,7 +232,7 @@ The Dark Ages of India begin with the invasions of the Turk Muhammad Ghori, whos
 
 Cities were razed; universities, libraries and temples were burned; high taxes and idiotic economic interventions were imposed. Non-Muslims were widely persecuted, and the total death toll of the Muslim invasions is widely cited as ~80 million. Slavery, widow-burning and child marriage spread, and India's fraction of the world economy halved.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](rh4snz394mv71.png)](https://preview.redd.it/rh4snz394mv71.png?width=1848&format=png&auto=webp&s=3d1fb870f259157869dad7bb92cf6b5416789f93)
+![](../_attachments/stock%20photos/1bb014ea7667a9a88f3ee3220549d2b5_MD5.png)
 
 The sole exception to the widespread crappiness of the period was the rule of the Mughal Emperor Akbar (reign 1556-1605), who enacted several economic and social reforms, appointed Hindu ministers and partially Indianized court style. He grew disaffected with Islam, holding religious debates at the famously free [Ibadat Khana](https://en.wikipedia.org/wiki/Ibadat_Khana) and eventually left the religion mid-way into his reign for _Din-i-Ilahi_, a syncretic cult of his own creation. The Indian fraction of the world economy expanded during his reign for the first time in centuries, particularly fueled by the growth of the textile industry in Bengal. It is to the period of Akbar (and about two generations after him) that we owe the fancy wealthy picture of the Mughals, prior to which they lived in tents and ate rats.
 
@@ -254,6 +254,6 @@ The final leg of premodern Indian history was the reconquest of the country by I
 
 The Marathas under Shivaji, who initially scored his victories through guerilla warfare and cunning, eventually received the backing of many financiers and landlords dissatisfied with Mughal rule. Shivaji was a remarkably enlightened ruler; he embraced Vedic rituals and governance policies, he was open to trade and adoption of foreign technologies, he regarded his conquests as a constructive enterprise rather than mere revenge against Muslim rule.
 
-[![r/IndiaSpeaks - A political history of premodern India (1200 BC – 1756)](cvr5z0k45mv71.png)](https://preview.redd.it/cvr5z0k45mv71.png?width=1024&format=png&auto=webp&s=0d0121f47b8746f404b3c421c208582b1b888c31)
+![](../_attachments/stock%20photos/0281ad395cbbc6150ea76131b405a33e_MD5.png)
 
 The Maratha Empire reduced the excessive bureaucratic overhead that had been introduced by Muslim rule, reducing taxes and abolishing religious persecution.

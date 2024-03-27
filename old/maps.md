@@ -51,6 +51,74 @@ See comparative notes on wisdomlib.org [1](1)(https://www.wisdomlib.org/buddhism
 
 ## [fig:udicya]
 
+North West
+
+https://archive.org/details/in.gov.ignca.4695/page/n77/mode/2up
+The Agalassoi and Sibae were said to be North from the Malloi (Arrian says Alexander "made inroads" among them to prevent them from confluencing from the Malloi); the ?ibis are associated with U??nara in traditional literature, so I have located them at a region accessible to the Usinara.
+
+The Ambastha are hard to locate from Indian literature, but the Diodorus helps locate them:
+https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17E*.html#ref83
+https://pleiades.stoa.org/places/59648
+
+Some information based on Alexander's invasion:
+
+### Cophen campaign
+
+A people called Aspasioi are found in the Choes (either the Alishang or the Kunar) valley and a people called Assakenoi in the Swat Valley. The Guraeans ruled in the Panjkora valley of the Upper Dir district.
+
+https://books.google.co.uk/books?id=gYg8AAAAIAAJ&pg=PA352
+
+The Kunar Valley starts at Chitral, flows through the Kunar province of Afghanistan, and returns to Pakistan through the Khyber district, until Attock. 
+
+The Swat Valley corresponds to the modern-day Swat district. The Assakenoi also controlled the Buner district, and the city of Aornos may have been on Pir Sar in the Shangla district. Pushkalavati, the former seat of Achaemenid power in Gandhara, located on the border of Charsadda and Peshawar, also likely came under their influence in this period.
+
+Narain, A. K. (1965). Alexander the Great: Greece and Rome – 12. pp. 155–165.
+
+https://books.google.co.uk/books?id=t5g2EAAAQBAJ&pg=PA24
+
+The Guraeans seemed to have been vassals of the Aspasioi, as the city of Arigaion in Bajaur district is attributed to both of them (sorta).
+
+Dodge, Theodore (1890). Alexander. Pennsylvania: Stackpole Books. p. 519.
+
+Abisares was an ally of the Assakenoi, and ruled in Kashmir (including the Pakistan-controlled part shown in the map, and e.g. Rajouri in the India-controlled part).
+
+The part of Ancient Gandhara not attributed to one of these tribes, I have attributed to Taxila.
+
+### Hydapses campaign
+
+Porus ruled between the Jhelum and the Chenab rivers.
+
+A certain Glausaes ruled to his North-East.
+
+To his South-East, between the Chenab and Ravi rivers, ruled "the other Porus", an enemy of Porus, possibly his cousin. 
+
+Sakala was not part of this territory, instead belonging to the war-like Cathaeans who originated further East.
+
+Arrian doesn't name the rulers of the territory between the Ravi and Beas rivers, but Diodorus states it was ruled by numerous divided states including Sophytes, Phegus, the Adrestians etc.
+
+Bosworth, Albert Brian (1993). "From the Hydaspes to the Southern Ocean". Conquest and Empire: The Reign of Alexander the Great. Cambridge University Press.
+
+Arrian, The Anabasis of Alexander, 5.21-22.
+
+### Southern Punjab
+
+Alexander subjugated some unnamed Indian states during his voyage down the Jhelum, probably located on its West bank. 
+
+Arrian, The Anabasis of Alexander, 6.4.
+
+He then traveled down the Chenab. Here too, several unnamed rulers refused to submit to him. Interestingly, Arrian does not describe battles with these rulers, instead merely saying that Alexander prevented them from aiding the Malloi further South (who were preparing for battle against Alexander).
+
+Arrian, The Anabasis of Alexander, 6.5.
+
+At the intersection of the Ravi and the Chenab was where the next described battle takes place. The Malloi ruled directly South of this confluence, and I assume that this corresponds to the modern-day Multan division (i.e. as far as the Sutlej-Chenab confluence).
+
+The Malloi allied with the Oxydraci, their historical enemies. Their territory is not known. However, I will note that Arrian does not mention any battles between the Sutlej-Chenab confluence and the Chenab-Indus Confluence, thus I assume this region belonged to the Oxydraci.
+
+### Sindh
+
+Musicanus and Oxycanus were likely plains-dwelling rulers in Sindh. Sambus likely had a more mountainous territory in the Western part of Sindh. Patala was a kingdom in the Sindh river delta.
+
+
   
 
 ## [fig:silk_road]

@@ -1,0 +1,1 @@
+People have the habit of visualizing the ancients in a historically and geographically confused way (e.g. ancient China in terms of Ming dynasty, or India in terms of Taj Mahal, Bahubali, ancient Greece as “individualistic” when it was in reality very state/politics centered)

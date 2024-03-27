@@ -34,7 +34,7 @@ See the `xatra` project ([website](https://srajma.github.io/xatra/) , [github](h
 **Old writing not fully endorsed**
 
 1. [A political history of premodern India](Old/political_history.md)
-2. [Note on Vikramāditya](https://www.reddit.com/r/IndiaSpeaks/comments/rh8dmd/vikramaditya_reconstructing_the_interregnum_of_57/)
+2. [Note on Vikramāditya](Old/vikramaditya.md)
 3. [Some maps to visualize India in antiquity](Old/maps.md)
 4. [Estimating Mauryan-era incomes from the weight of a mung bean](Old/income.md)
 
