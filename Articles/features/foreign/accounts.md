@@ -24,7 +24,7 @@ Some Hindu king had perished at the hand of an enemy of his who had marched agai
 
 [https://www.wisdomlib.org/hinduism/book/kathasaritsagara-the-ocean-of-story/d/doc118769.html](https://www.wisdomlib.org/hinduism/book/kathasaritsagara-the-ocean-of-story/d/doc118769.html) -- intellectual swayamvara
 
-![](../../../_attachments/foreign/debate.png)
+![](../../../-attachments/foreign/debate.png)
 
 ### Re: Medieval Revivals in the West
 

@@ -76,7 +76,7 @@ All the aforementioned groups mentioned lived in the same geographic region as t
 
 **Language distribution:** One piece of information is the current distribution of languages, which suggests a peninsular distribution of the Dravidian languages, Eastern distribution of Munda (Austro-asiatic), and the language isolates of Nihali, Burushaki, Kusunda and the remnants in Vedda, which may at one point have had a wider distribution.
 
-![language families today.png](language%20families%20today.png)
+![language families today.png](../../../-attachments/language%20families%20today.png)
 
 Image: [arxiv.org/pdf/2203.12524.pdf](https://arxiv.org/pdf/2203.12524.pdf)
 
@@ -116,7 +116,7 @@ Are related, and that the tribe is of Austro-asiatic, i.e. “Para-Munda” orig
 
 **Material cultures:** Perhaps we can get some hints from looking at archaeology? Here is a list of material cultures from North India known to archaeologists:
 
-![archaeological cultures.png](../../../_attachments/snippetry/archaeological%20cultures.png)
+![archaeological cultures.png](../../../-attachments/snippetry/archaeological%20cultures.png)
 
 Table S1 of [9x.1]
 

@@ -18,7 +18,7 @@ The most unambiguous reference to the prominence of Indian mercenaries in Centra
 
 Subsequently Alexander encounters a certain “Sophytes” – who is identifiable with the Saubhuta corporation mentioned by Pāṇini – he is placed by different Greek authors in the Amritsar/Lahore region or in Śākala – but then subsequently appears to have become a ruler in Bactria-Sogdia from 305–294 BC based on his coin finds.
 
-![](../../../_attachments/foreign/sophytes.png)
+![](../../../-attachments/foreign/sophytes.png)
 
 _Greek-style coins of the Saubhuta king after becoming satrap of Bactria, with Greek legend “Of Sophytes”_
 
@@ -101,5 +101,5 @@ Something worth noting is that corporate and republican systems were closely rel
 
 There are elaborate descriptions given of the Vrātyas in Vedic literature – [TheEmissary on Twitter](https://twitter.com/TheEmissaryCo/status/1607604933179723777?lang=en-GB) wrote some comments on them, and posted this MidJourney visualization.
 
-![](../../../_attachments/foreign/vratya.jpg)
+![](../../../-attachments/foreign/vratya.jpg)
 [](#_ednref2) 

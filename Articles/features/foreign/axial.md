@@ -18,13 +18,13 @@ Well, what were these Iron Age Indians doing in the Middle East?
 
 I have long found issue with the mainstream theory of the origin of Brahmi [context in an endnote[[iv]](#_edn4)], that it is derived from Aramaic. The problem is that Brahmi characters often better match Aramaic’s parent Phoenician or its many sibling scripts:
 
-![](../../../_attachments/foreign/phoenician.jpg)
+![](../../../-attachments/foreign/phoenician.jpg)
 
 Ignoring the right-to-left shenanigans, four characters (labelled here with their Aramaic names Dalath, Zain, Ayin, Sadhe) best match Phoenician, four (He, Waw, Kheth, Iodh) best match other Near Eastern scripts, and one (Beth) best matches Proto-Sinaitic, the ancestor of Phoenician that wasn’t in use by the time. The others could fit any of the scripts; none of them really show a preference for Aramaic.
 
 This leads me to believe that the Brahmi script was developed with knowledge of several different Phoenician-derived scripts in the Levant – probably by early Indian scholars or merchants who travelled to the Levant. It is not hard to imagine that like in the case of Greece, the men who built Indian civilization were well-travelled, or in contact with those who were well-travelled – early philosophers like Yajnavalkya and Uddalaka Aruni _are_ described in this way (although only their travels as far as Gandhara are detailed), and 4th century BC Jain and Buddhist scriptures mention their respective prophets as having been familiar with various mysteriously-named (except 1, 2, 4, 13, 14, 17, 18 – but even these it is not clear what the scripts refer to) scripts:
 
-![](../../../_attachments/foreign/lipi.jpg)
+![](../../../-attachments/foreign/lipi.jpg)
 
 Source[[v]](#_edn5). This would also imply Brahmi to have a more ancient origin (9th – 6th century BC) than is believed by historians. I think this is consistent with archaeological evidence from Sri Lanka, where Brahmi inscriptions at Anuradhapura have found on pottery dating to the 6th century BC – and the earliest portions of the Anuradhapura citadel itself are dated to any period between the 9th – 6th century BC [[vi]](#_edn6). Perhaps this lends credence to the historicity of Rama’s Lanka expedition.
 
@@ -74,11 +74,11 @@ Some things that are often mentioned in this context – but my impression is th
 
 In the 9th century BC, the Iranians started migrating into Iran proper. They were different from the earlier Indo-Aryans (who had migrated into India and shortly after to Mesopotamia where they had formed the elite of the Mittani kingdom): they spoke a slightly different language and pronounced things differently, they took names ending with -_aspa_ (relating to their horse) rather than -_ratha_ (relating to their chariot), and their religion was slightly different: they shared the Vedic adoration for Agni, but cared little for Indra; they elevated the dyad of [Mitra-Varuna](https://en.wikipedia.org/wiki/Mitra-Varuna_(Indo-European)), but also they had priests called Magi who honoured the Sun. They migrated into Iran proper from the East and established the Median Empire ~678 BC.
 
-![](../../../_attachments/xatramaps/silkrd_west.png)
+![](../../../-attachments/xatramaps/silkrd_west.png)
 
 Meanwhile still in the Eastern lands, a magus named Zoroaster formed his own sect – which condemned the previously-exalted _Devas_ as demons, made Varuna (by the name of Ahura Mazda) supreme, and developed a somewhat monotheistic bent. The Achaemenid empire of the Persians, established c. 550 BC, was associated with Zoroastrianism, but the religion certainly originated in the East, e.g. the “[most beautiful places](https://en.wikipedia.org/wiki/Avestan_geography)” created first by Ahura Mazda in the first chapter of the Vendidad (one notes that the “homeland” Airyanem Vaejah is, like in the Indian tales, placed at the Meru mountains):
 
-![](../../../_attachments/foreign/airyanem_vaejah.png)
+![](../../../-attachments/foreign/airyanem_vaejah.png)
 
 One may wonder, based on the proximity of the early Zoroastrians to India, if there was any closer interaction between the cultures in these formative times. A much later Roman text claims that Zoroastrianism was influenced by the teaching of the Brahmans:
 
@@ -102,18 +102,18 @@ Now Balhika Prātipīya, the Kauravya king, heard people say, “There is that D
 
 —[Yājñavalkya, in the Śatapatha Brāhmaṇa, 12.9.3, c. 8th century BC.](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63487.html)
 
-![](../../../_attachments/foreign/kauravya.jpg)
+![](../../../-attachments/foreign/kauravya.jpg)
 _Kauravya was an ancient gotra_
 
 The first two disciples of Buddha are also known as Trapusa and Bahalika.
 
 A point of confusion I want to pre-emptively avoid: it is true that Balhika/Vahika/etc. were also used to refer to the Punjab region. However, this practice seems to have begun with the Achaemenid invasion of Punjab c. 518 BC – you also see towns named after Scythian tribes in this period, e.g. Śākala, Massaga. Contrary to popular misconception, the Achaemenid territory of “Hindush” (from which India gets its name) was _not_ Sindh (which was not conquered), but the region of Punjab between the Indus and Beas river – while “Gandara” (=“Parupraesanna”) referred to Kamboja and the part of Gandhara west of the Indus river. The reason for this odd naming is that “Gandara”, although it was only half of Gandhara, was annexed earlier, under Cyrus the Great in 535 BC (subsequently, Gandhara wrested its independence from the Persians, and the province Parupraesanna only referred to Kamboja, although it should mean “beyond Kamboja”, i.e. Gandhara).
 
-![](../../../_attachments/foreign/indic_maharashtra.png)
+![](../../../-attachments/foreign/indic_maharashtra.png)
 
 I briefly considered that there may have also been some early incursions from the Kambojas into Southern India, based on place names like Aśmaka and Ṛṣika (Aśmaka was a variant form of Aśvaka, Ṛṣika referred to the Asii – but they also referred to nations in the Deccan) – but I think this is more likely that Indian writers just gave similar names to tribes that were distant from the Central Country, cf naming of places in South-East Asia based on Taxila, Kamboja (Cambodia), Dwaravati, even Yavana (as the Java island was called in early literature, even though the Greeks had no connection to it – and in fact, this is the etymological root for “Java”).
 
-![](../../../_attachments/foreign/explorers.png)
+![](../../../-attachments/foreign/explorers.png)
 
 
 ---
@@ -158,7 +158,7 @@ Recap: all the civilizations of the Bronze Age collapsed under mysterious circum
 
 From those ashes rose the Phoenicians – a maritime mercantile people who originated in Lebanon and Israel, or maybe Dilmun – who colonized the Mediterranean, reconnected the world with their trade networks, and (as is important for our story) brought literacy back to the Near East and Greece by introducing their writing system. Thus, all but three of the writing systems in use in the world today are descended from Phoenician:
 
-![](../../../_attachments/foreign/27scripts.jpg)
+![](../../../-attachments/foreign/27scripts.jpg)
 
 Well, what about India? Indian civilization made one of the greatest comebacks c. 800 BC during the “Second Urbanization” period – the formation of large and heavily fortified cities, centred around Ayodhya, the birth of philosophy and the sciences and a culture of learning and debate, a thriving financial system with probably the earliest coinage issued in the world (predating the Lydians), and the growth of Taxila as a centre of learning.
 
@@ -168,7 +168,7 @@ In terms of writing, though, the mainstream narrative is that the Brahmi script 
 
 [[vi]](#_ednref6) **Sri Lankan Archaeology:** [SU Deraniyagala (1990), Radiocarbon dating of early Brahmi script in Sri Lanka: 600–500 BC.](https://scholar.google.com/scholar_lookup?title=Radiocarbon+dating+of+early+Brahmi+script+in+Sri+Lanka%3A+600%E2%80%93500+BC&author=Deraniyagala+S.U.&publication+year=1990&journal=Ancient+Ceylon&volume=11)
 
-![](../../../_attachments/foreign/anuradhapura.png)
+![](../../../-attachments/foreign/anuradhapura.png)
 
 [[vii]](#_ednref7) **Early Babylon-India trade:** Although this article’s central claims have been refuted by archaeological evidence from the Indus Valley Civilization, it remains a source of some interesting information:
 
