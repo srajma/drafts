@@ -1,7 +1,7 @@
 # Some maps to visualize India in antiquity
 ## [fig:names_of_india]
 
-![names of india](names%20of%20india.png)
+![names of india](../-attachments/names%20of%20india.png)
 
 **A general caveat:** A standard feature of ancient Indian culture was that we rarely referred by specific names the water we lived in. Sanskrit was usually just called “language” (“Bhāṣā”) or “correct speech”, India was usually just called “realm” (“Loka”), Hinduism was just called “Dharma” or “the practices of the Āryas”. Many of the references herein simply say things like “wherever the blackbuck roams naturally, the glory of Brahman is present”.
 
@@ -34,12 +34,12 @@ Even when there _were_ actual names for these. This doesn't mean there wasn't a 
 
 [/in/veda/sutra/dharma//baudhayana] Baudhāyana Dharmasūtra, 1.1.2: [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/baudhayana-dharmasutra/d/doc116395.html#note-e-64781)
 
-[/in/pol/smrti//manu] Manusmṛti, 2.17—2.24: [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145592.html)
+[/in/pol/smrti//manu] Manusmr̥ti, 2.17—2.24: [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145592.html)
 
 See comparative notes on [wisdomlib.org](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145594.html) for references to:
 
 - [/in/veda/sutra/dharma//vasistha] Vasiṣṭha Dharmasūtra
-- [/in/pol/smrti//samvarta] Samvarta Smṛti
+- [/in/pol/smrti//samvarta] Samvarta Smr̥ti
 
 See comparative notes on wisdomlib.org [1](1)(https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1127134.html\#note-e-190249) [2](2)(https://www.wisdomlib.org/hinduism/book/the-brahmanda-purana/d/doc362730.html\#note-t-125632) [3](3)(https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117107.html\#note-t-68687) for references to various [/in/sec/purana]
 
@@ -123,7 +123,7 @@ Musicanus and Oxycanus were likely plains-dwelling rulers in Sindh. Sambus likel
 
 ## [fig:silk_road]
 
-![central asia](central%20asia.png)
+![central asia](../-attachments/old%20maps/central%20asia.png)
 
 Vague picture:
 
@@ -153,7 +153,7 @@ There are several different genres of traditional Indian literature on foreign r
 
 The absence of a standardized name for Sogdia in Indian literature (except for Ferghana, mentioned as Prakaṇva by Pāṇini, see e.g. VS Agarwala) is certainly surprising given the close relationship between India and the region (c.f. the Buddhist monk Kumarajiva), although it is referenced often in Chinese Buddhist literature. This list in [/in/sec/jaina/sveta/a8], of sources of women in a harem in Dvāraka, is illuminating:
 
-![harem in dwaraka](../_attachments/snippetry/harem%20in%20dwaraka.png)
+![harem in dwaraka](../-attachments/snippetry/harem%20in%20dwaraka.png)
 
 source: [/in/sec/jaina/sveta/a8](/in/sec/jaina/sveta/a8)(https://archive.org/details/antagadadasaoanu17royauoft/page/28/mode/2up)
 
@@ -188,7 +188,7 @@ VS Agarwala (1953), _India as known to Pāṇini_. 594 pages. Full text from [ar
 
 ## [fig:maritime_trade]
 
-![sea routes](../_attachments/old%20maps/sea%20routes.png)
+![sea routes](../-attachments/old%20maps/sea%20routes.png)
 
 **Canonical sources:**
 
@@ -196,7 +196,7 @@ Moti Chandra (1977), _Trade and Trade Routes in Ancient India._ 294 pages. Full 
 
 ## [fig:afghanistan]
 
-![afghanistan](afghanistan.png)
+![afghanistan](../-attachments/old%20maps/afghanistan.png)
 
 Kamboja is only attested in Indian literature (to the Iranians it was just the Uparisaina mountains, part of Gandāra), apart from the name of the Achaemenid emperor Kambūjiya (see also Kūruš, that is Cyrus).
 
@@ -208,7 +208,7 @@ The Haraxvatī and and Harī rivers are cognate to the Sarasvatī and Sarayū. T
 
 ## [fig:south_east_asia]
 
-![south east asia](south%20east%20asia.png)
+![south east asia](../-attachments/old%20maps/south%20east%20asia.png)
 
 Earliest recorded Indian rulers in Southeast Asia:
 
@@ -241,7 +241,7 @@ Moti Chandra (1977), _Trade and Trade Routes in Ancient India._ 294 pages. Full 
 
 ## [fig:cities]
 
-![city sizes](city%20sizes.png)
+![city sizes](../-attachments/city%20sizes.png)
 
 Sources:
 
@@ -260,11 +260,11 @@ One may note the destruction of Taxila by the Huns, and the emergence of Frontie
 Not included: Chinese cities, because their size would dwarf everything else here. This was mostly due to Chinese flair for grandeur: Chang'an in the 2nd century BC had much fewer people than Pāṭaliputra or Rome, but was 36 km2 in area; in the 6th century it was an enormous 84 km2.
 
 ## [fig:writing_systems_modern]
-![](../_attachments/mapchart/writing_systems/v3.png)
+![](../-attachments/mapchart/writing_systems/v3.png)
 
 
   
 
 ## [fig:meme_map]
 
-![](../_attachments/mapchart/schizo/europe.png)
+![](../-attachments/mapchart/schizo/europe.png)

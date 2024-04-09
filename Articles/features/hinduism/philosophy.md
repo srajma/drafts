@@ -8,7 +8,7 @@ The causes for this revolution ought to be a central topic for historical study,
 
 There appear to be three basic motivating roots of Indian philosophy:
 
-1. **Intellectual speculation**, such as in Yajurveda and Book 10 of Ṛgveda, leading to questions about the nature of consciousness, afterlife and the creation of the universe.
+1. **Intellectual speculation**, such as in Yajurveda and Book 10 of r̥gveda, leading to questions about the nature of consciousness, afterlife and the creation of the universe.
 2. **Induction of ascetic, i.e. śramaṇa practices**, perhaps of non-Vedic origin (e.g. Vrātyas), in the form of Saṃnyāsa, demanding rationalization of meditation.
 3. **Vedāṅga**, i.e. the emphasis on precision in speech, thought and ritual as demanded for Vedic practice, motivating work in linguistics, exegesis, music and geometry
 
@@ -18,7 +18,7 @@ One of the clearest picture of the origins of Indian philosophy, especially from
 
 1—2 motivated the composition of the Upaniṣads; 3 motivated the composition of the Brāhmaṇas. The Āraṇyakas were the bridge between the two.
 
-These were not yet competing points of view: and it was often the same figures involved in the composition of both, e.g. Yājñavalkya composed the most important (and one of the earliest) texts of each genre: Bṛhadāraṇyaka Upaniṣad and the Śatapatha Brāhmaṇa. In fact, some texts fit into both genres, or formed a supplement to a text of another genre.
+These were not yet competing points of view: and it was often the same figures involved in the composition of both, e.g. Yājñavalkya composed the most important (and one of the earliest) texts of each genre: Br̥hadāraṇyaka Upaniṣad and the Śatapatha Brāhmaṇa. In fact, some texts fit into both genres, or formed a supplement to a text of another genre.
 
 In this period there are no firmly-set views, as the goal of philosophy was not to be right but to win debates. Those who won debates were rewarded with wealth, honour and wives, while losers were humiliated, exiled or (in this early period) even killed.
 
@@ -43,7 +43,7 @@ A classification I will use, that is idiosyncratic to me, but which reflects the
 |**Āstika**|Sāṃkhya—Yoga  <br>Nyāya—Vaiśeṣika  <br>Mīmāṃsā—Vedānta|Bauddha  <br>Jaina|
 |**Nāstika**|Cārvāka|Ajñāna  <br>Ājīvika—Akriyā—Śāśvata|
 
-While these are the schools generally listed of “Indian philosophy”, there was also parallel socio-political tradition that emerged in the same period, i.e. the _Artha_ and _Dharmasūtra_ literature, which contributed significantly to the philosophy of ethics. The earliest of this is the Kalpasūtra genre, consisting of the Gṛhyasūtras (800—500 BC), the Dharmasūtras (600—200 BC) and the Śrautasūtras (800—200 BC). These scholars often organized into schools named after ancient sages, perhaps reflecting gotras, such as Manu, Gautama, Vasiṣṭha, Bhāradvaja, Parāśara, and most importantly: Bṛhaspati. The school of Bṛhaspati was, in particular, responsible for the foundation of the _Artha_ tradition, later expounded by the giant Kautilya, and for their origination of the NB philosophy.
+While these are the schools generally listed of “Indian philosophy”, there was also parallel socio-political tradition that emerged in the same period, i.e. the _Artha_ and _Dharmasūtra_ literature, which contributed significantly to the philosophy of ethics. The earliest of this is the Kalpasūtra genre, consisting of the Gr̥hyasūtras (800—500 BC), the Dharmasūtras (600—200 BC) and the Śrautasūtras (800—200 BC). These scholars often organized into schools named after ancient sages, perhaps reflecting gotras, such as Manu, Gautama, Vasiṣṭha, Bhāradvaja, Parāśara, and most importantly: Br̥haspati. The school of Br̥haspati was, in particular, responsible for the foundation of the _Artha_ tradition, later expounded by the giant Kautilya, and for their origination of the NB philosophy.
 
 Summary of metaphysics: A* schools accept Jīva; N* reject it. Although only AB explicitly accept Ātman and Brahman, AS schools “functionally” have it in the form of rebirth and mokṣa respectively. On ascetism vs. ritual, *S reject ritual and embrace ascetism, NB rejects both, AB is divided: Sāṃkhya-Yoga and Vedānta have a syncretic view (emphasize “true understanding” of ritual), Nyāya-Vaiśeṣika say “Sir this is a Natural Philosophy”, Mīmāṃsā and socio-political traditions reject ascetism and embrace ritual.
 
@@ -52,9 +52,9 @@ Summary of metaphysics: A* schools accept Jīva; N* reject it. Although only AB 
 - _Nyāya_ — the theory of natural law, i.e. the stance that the universe is governed by some rules. The school is attributed to Akṣapāda Gautama (or Medhātithi Gautama, perhaps the same person), traditionally said to be the composer of the Nyāya Sūtras (which were likely a prolonged compilation from his time up to the 2nd century BC). Regarding the date of these texts, note that: (a) they are supposed to post-date the Vaiśeṣika school, even though arguably more “fundamental” (b) they had a heavy influence on Bauddha logic, the first glimpses of which can be seen in the Kathāvatthu c. 240 BC (c) the first explicit of the school mention comes from Nāgārjuna, c. 200, but a “takki vimamsi” school is mentioned in the Pāli Canon (Aṅguttara Nikāya 3.60: Saṅgārava-sutta) and said to have existed in the time of Buddha (d) they seem to have been the most responsible for the formalization of epistemology, probably motivated by their overwhelming patronization of formal debate, and all other schools seemed to have already adopted it by the 3rd or 2nd centuries BC. Thus I would probably date the origin of the school to 500—300 BC.
 - _Vaiśeṣika_ — the theory of atoms and elements, i.e. reductionism. Attributed to Kaṇāda, c. 600 BC.
 - _Sāṃkhya_ — mind-body dualism. Attributed to Kapila, 700—600 BC. This is attested in the the Śvetāśvatara Upaniṣad 5.2 (600—500 BC), and in the Buddhacharita (c. 100), and the school is widely acclaimed in Hindu literature starting from the Śuṅga period; subsequent scholars of importance included Āsuri and Pañcaśikha, and the work Ṣaṣṭitantra, none of which survive.
-- _Yoga_ — meditation. Academically, Yoga was understood as the practical application of the Sāṃkhya philosophy (see e.g. Katha Upaniṣad 2.6.6—13, c. 500 BC), but its meditative practices predate Sāṃkhya, and are already described in the earliest Upaniṣads (e.g. Bṛhadāraṇyaka 1.5.23, Chāndogya 8.15) c. 800 BC.
+- _Yoga_ — meditation. Academically, Yoga was understood as the practical application of the Sāṃkhya philosophy (see e.g. Katha Upaniṣad 2.6.6—13, c. 500 BC), but its meditative practices predate Sāṃkhya, and are already described in the earliest Upaniṣads (e.g. Br̥hadāraṇyaka 1.5.23, Chāndogya 8.15) c. 800 BC.
 - _Mīmāṃsā, or Pūrva-Mīmāṁsā_ — the rationalization and exegesis of rituals and hymns; the stance being that rituals and hymns are embedded in physical law (without the need for real gods or metaphysics), and the determination of these laws through radical critique. In this phase, this school had not yet taken its name but developed in the form of the Vedāṅga literature, which is divided into:
-    - _Kalpa_ (rules of life and ritual)_:_ Gṛhya (800—500 BC), Dharma (600—200 BC) and Śrauta (800—300 BC) Sūtras of various authors
+    - _Kalpa_ (rules of life and ritual)_:_ Gr̥hya (800—500 BC), Dharma (600—200 BC) and Śrauta (800—300 BC) Sūtras of various authors
     - _Jyotiṣa_ (astronomy/astrology)_:_ Vedāṅga Jyotiṣa (compiled 700—200 BC) of Lagadha
     - _Śikṣā_ (phonetics): the _padapāṭha_ and _prātiśākhya_ texts (~1000—800 BC)
     - _Chanda_ (prosody): the Chandaḥśāstra of Piṅgala (c. 300 BC)
@@ -62,7 +62,7 @@ Summary of metaphysics: A* schools accept Jīva; N* reject it. Although only AB 
     - _Nirukta_ (epistemology): The Nirukta of Yāska (700—500 BC). According to Patañjali (180 BC), they often clashed with the grammarians.
 - _Vedānta, or Uttara-Mīmāṁsā_ — the exegesis of Brahman and Ātman; in this period its texts were continuing Upaniṣads.
 
-**Descriptions of NS schools.** Most of what we know of these schools come from the Buddhist Pāli Canon (Brahmajāla and Samaññaphala Suttas) and the Jain Agamas (Agama 2: Sūtrakṛtāṅga), which were redacted from the 5th—1st century BC. Ājīvika is also described in Patañjali’s Mahābhāsya 3.96 from 180 BC. All of these schools’ founders were said to be contemporary to or slightly earlier Buddha and Mahavira, thus in the 6th century BC.
+**Descriptions of NS schools.** Most of what we know of these schools come from the Buddhist Pāli Canon (Brahmajāla and Samaññaphala Suttas) and the Jain Agamas (Agama 2: Sūtrakr̥tāṅga), which were redacted from the 5th—1st century BC. Ājīvika is also described in Patañjali’s Mahābhāsya 3.96 from 180 BC. All of these schools’ founders were said to be contemporary to or slightly earlier Buddha and Mahavira, thus in the 6th century BC.
 
 - _Ājīvika_ — determinism or denial of free will. Attributed to Maskarin Gośāla.
 - _Akriyā_ — amoralism, because moral responsibility and causation aren’t real. Attributed to Pūrṇa Kāśyapa.
@@ -73,7 +73,7 @@ Summary of metaphysics: A* schools accept Jīva; N* reject it. Although only AB 
 
 - Jain texts describes the philosophy of Ajita Keśakambali as the the _-vāda_ (doctrine) of _Uccheda_ (”annihilation” of soul), _Tam-jīvam-tam-śarīram_ (”identity of soul and body”), _Dēhātma_ (”the body is the soul”)
 - _Lokāyata_ and _Ānvīkṣikī_ mean “knowledge of the physical world” and “scientific inquiry” respectively; Cārvāka is called by these names because it holds these to be the only valid sciences.
-- _Bārhaspatya_: besides Cārvāka, there is also a school of Arthaśāstra (economics) and a school of Dharmaśāstra attributed to Bṛhaspati. In fact, Bṛhaspati is said to be the earliest of economic theorists. While the description of the economic school by Kautilya does bear a resemblance to Cārvāka (in denying that the Vedas are a valid domain of knowledge, or that Dharma is a valid Puruṣārtha), the Dharmaśāstra school actually appears to be quite orthodox. It is possible that Bārhaspatya was simply the gotra of several prominent early theorists. It is worth noting that Bṛhaspati and Śukra are said to be the preceptors of the gods and of the demons respectively, and are also regarded as the expounders of the earliest economic schools. Kautilya often criticizes the latter, along with Kaṇiṅka Bhāradvāja, for being too amoral in their ways. It is possible that Bṛhaspati and Śukra represented two different strains of Cārvāka, with the former still aligned with the orthodoxy on matters of morals although for rational rather than metaphysical reasons and the latter more given to amoralism like the Śāśvatas.
+- _Bārhaspatya_: besides Cārvāka, there is also a school of Arthaśāstra (economics) and a school of Dharmaśāstra attributed to Br̥haspati. In fact, Br̥haspati is said to be the earliest of economic theorists. While the description of the economic school by Kautilya does bear a resemblance to Cārvāka (in denying that the Vedas are a valid domain of knowledge, or that Dharma is a valid Puruṣārtha), the Dharmaśāstra school actually appears to be quite orthodox. It is possible that Bārhaspatya was simply the gotra of several prominent early theorists. It is worth noting that Br̥haspati and Śukra are said to be the preceptors of the gods and of the demons respectively, and are also regarded as the expounders of the earliest economic schools. Kautilya often criticizes the latter, along with Kaṇiṅka Bhāradvāja, for being too amoral in their ways. It is possible that Br̥haspati and Śukra represented two different strains of Cārvāka, with the former still aligned with the orthodoxy on matters of morals although for rational rather than metaphysical reasons and the latter more given to amoralism like the Śāśvatas.
 
 These names are identified with each other in several places in the available literature. Unlike the NS schools, Cārvāka is well-attested in both AB and AS literature, and remained prominent well into medieval times, as attested by the many rebuttals against it by the scholars of other schools. Some references to read more about this:
 
@@ -86,7 +86,7 @@ The following may be regarded as the “canonical texts” of the philosophical 
 
 - the _Nyāya Sūtras_, canonized c. 320 BC or 180 BC.
 - the _Vaiśeṣika Sūtra_, c. 180 BC.
-- the _Sāṁkhya Kārikā_ of Īśvara Kṛṣṇa c. 350 (earlier works are lost).
+- the _Sāṁkhya Kārikā_ of Īśvara Kr̥ṣṇa c. 350 (earlier works are lost).
 - The _Yoga Sūtras_ of Patañjali c. 180 BC, and the _Yoga-Yājñavalkya_, shortly thereafter
 - the _Mīmāṁsā Sūtra_ of Jaimini, c. 320 BC or 180 BC.
 - the _Brahma (or Vedānta) Sūtras_ of Bādarāyaṇa, c. 180 BC.
@@ -121,7 +121,7 @@ With regards to the first, the notable reformations are:
 - Theistic Nyāya expounded by Jayanta Bhatta (9th) and Udayana (10th cen)
 - Navya-Nyāya (”New Logic”) expounded by Gaṅgeśa Upādhyāya (14th cen)
 
-The logical expositions of the Mīmāṃsā school are also worthy of note for their contributions to the philosophy of language, e.g. Bhartṛhari (5th cen), Prabhākara (6th cen), Kumārila Bhaṭṭa (c. 700). Also worth a mention are the epic compositions of Vidyāraṇya (the Sarvadarśanasaṅgraha) and Vācaspati Miśra summarizing and comparing the works of various schools.
+The logical expositions of the Mīmāṃsā school are also worthy of note for their contributions to the philosophy of language, e.g. Bhartr̥hari (5th cen), Prabhākara (6th cen), Kumārila Bhaṭṭa (c. 700). Also worth a mention are the epic compositions of Vidyāraṇya (the Sarvadarśanasaṅgraha) and Vācaspati Miśra summarizing and comparing the works of various schools.
 
 This is only a small sample of the scholars and works of this period; it’s a long period, and works from this period onward are much better preserved than in the previous periods, with vast numbers of even unimportant philosophical treatises still extant today. The Wikipedia pages on the respective darśanas provide more than a decent bibliography; for an in-depth exposition see:
 

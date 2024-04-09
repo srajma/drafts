@@ -8,7 +8,7 @@ Upinder Singh has a book titled _Ancient India: Culture of Contradictions_. Owin
 - Chastity vs courtesan culture
 - Sensual restraint vs indulgence
 
-Kṛṣṇadevarāya’s Āmuktamālyada 278
+Kr̥ṣṇadevarāya’s Āmuktamālyada 278
 
 The king is non-violent, though he kills.
 

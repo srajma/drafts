@@ -87,7 +87,7 @@ Something worth noting is that corporate and republican systems were closely rel
 
 ·       _Gaṇa_ – a republic, but also a term used for guilds
 
-·       _Rājaśabdopajīvinaḥ_ – corporations of whose chiefs took the title of Rāja; ruled in Vṛjika, Mallaka, Madraka, Kukura, Kuru, Pāñcāla
+·       _Rājaśabdopajīvinaḥ_ – corporations of whose chiefs took the title of Rāja; ruled in Vr̥jika, Mallaka, Madraka, Kukura, Kuru, Pāñcāla
 
 ·       _Kṣatriyaśreṇī_ – mercenary corporations in KAS; ruled in Kamboja, Surāṣṭra
 
@@ -97,7 +97,7 @@ Something worth noting is that corporate and republican systems were closely rel
 
 ·       _Vrātya_ – a particular culture of warrior ascetics associated with Magadha and the Licchavi regions, with Shaivism, and with early Śramana schools like the Ājīvikas
 
-·       _Vṛṣṇi –_ a particularly powerful culture of mercenaries originating in Mathura – they opposed the Magadhi imperial expansion for 150 years (before eventually falling to the Nandas), and spread the Krishna-sect far and wide in North-West India.
+·       _Vr̥ṣṇi –_ a particularly powerful culture of mercenaries originating in Mathura – they opposed the Magadhi imperial expansion for 150 years (before eventually falling to the Nandas), and spread the Krishna-sect far and wide in North-West India.
 
 There are elaborate descriptions given of the Vrātyas in Vedic literature – [TheEmissary on Twitter](https://twitter.com/TheEmissaryCo/status/1607604933179723777?lang=en-GB) wrote some comments on them, and posted this MidJourney visualization.
 

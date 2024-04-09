@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "811ca3ce5565bf85",
+            "id": "07a4887cf1a7a8f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter/suvarnabhumi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862179129a039b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-thoughts/mapsources.md",
+                "file": "Fiction/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/suvarnabhumi.md",
+                "file": "Fiction/TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/suvarnabhumi.md",
+                "file": "Fiction/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter/suvarnabhumi.md"
+                "file": "Fiction/TODO.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,29 +146,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9ae10f75b6d1aaf9",
+  "active": "07a4887cf1a7a8f4",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "-attachments/suvarnabhumi/F3lTJp7WoAAwUQQ.png",
+    "Fiction/maurya plan.md",
+    "README.md",
+    "Twitter/toolkit.md",
+    "-attachments/Pasted image 20240402163011.png",
+    "-attachments/Pasted image 20240402162926.png",
+    "-attachments/retardation/Pasted image 20240402035732.png",
+    "-attachments/retardation/GKFNo1XWkAAHieo 1.jpeg",
+    "-attachments/pramanaproposal/Pasted image 20240402015840.png",
+    "-attachments/pramanaproposal/Pasted image 20240402035435.png",
+    "-attachments/pramanaproposal",
+    "-attachments/pramanaproposal/Pasted image 20240402033231.png",
+    "-attachments/pramanaproposal/Pasted image 20240402031101.png",
+    "-attachments/pramanaproposal/Pasted image 20240402031027.png",
+    "-attachments/pramanaproposal/Pasted image 20240402025200.png",
+    "Articles/README.md",
+    "Articles/myths/README.md",
+    "-thoughts/visualizing the ancients.md",
+    "Articles/features/README.md",
+    "-attachments/retardation",
+    "Twitter/diet.md",
     "Twitter/suvarnabhumi.md",
+    "New Text Document.txt",
     "Old/maps.md",
     "Old/political_history_flowchart.md",
     "-thoughts/mapsources.md",
-    "-thoughts/visualizing the ancients.md",
-    "Articles/features/README.md",
     "_thoughts/self-awareness.md",
-    "-attachments/stock photos/1bb014ea7667a9a88f3ee3220549d2b5_MD5.png",
     "Old/vikramaditya.md",
-    "-attachments/stock photos/ayudhajivi.jpeg",
-    "_attachments/stock photos/image1.jpeg",
-    "README.md",
     "Articles/myths/barbarians.md",
-    "-attachments/stock photos/d763a3c1935720a7e19db562e1f7c5e2_MD5.png",
-    "-attachments/stock photos/c80e3cfe8c4537c06255d5b0a2137c07_MD5.png",
-    "-attachments/city sizes.png",
-    "_attachments/stock photos/0pa3qvurwlv71.png",
-    "_attachments/stock photos/5gj33yr0vlv71.png",
-    "_attachments/stock photos/3dfmk29hylv71.png",
     "Old/political_history.md",
     "_attachments/Untitled",
     "Old/income.md",
@@ -189,23 +183,16 @@
     "sandbox.md",
     "[.md",
     "Articles/sources/primary.md",
-    "Articles/README.md",
     "Articles/features/foreign/axial.md",
     "Articles/features/foreign/accounts.md",
     "Articles/features/hinduism/theology.md",
     "Articles/features/hinduism/philosophy.md",
-    "Articles/myths/README.md",
     "-thoughts",
     "Articles/sources/secondary.md",
     "Fiction/TODO.md",
-    "vii.md",
-    "Articles/features/foreign/silkrd.md",
     "-attachments/xatramaps",
     "-attachments/foreign",
     "-attachments/foreign",
-    "Articles/features/foreign",
-    "Articles/sources",
-    "Articles/features/hinduism",
-    "Articles/features"
+    "Articles/features/foreign"
   ]
 }

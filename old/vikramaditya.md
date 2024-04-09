@@ -660,7 +660,7 @@ minted with legends like[^32]:
 
 *Yaudheya Ganasaya Jayah*
 
-![](../_attachments/stock%20photos/ayudhajivi.jpeg)
+![](../-attachments/stock%20photos/ayudhajivi.jpeg)
 
 *Map of Ayudhajivi Sanghas*[^33]
 

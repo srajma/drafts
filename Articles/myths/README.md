@@ -40,21 +40,13 @@ Some of the things I respond to are straight-up falsehoods; some are weird narra
   
 
 **Left-wing myth:** Ayodhya didn’t exist until the Gupta period.
-
 **Right-wing overcorrection:** Not only was Ayodhya historical, the Ramayana is completely historical, the Rama Sethu is man-made and was built 7000 years ago
-
 **Left-wing myth:** The Ramayana and Mahabharata were all made up during the Gupta period, Yudhishtira is actually based on Ashoka.
-
 **Right-wing overcorrection:** The Mahabharata is from 3000 BC and everything in it is true word-for-word, the Ramayana is from 7000 BC.
-
 Bardic literature etc. Exception: Ayurveda.
-
 **Left-wing myth:** The Aryans invaded India and enslaved the native population, creating the caste system.
-
 **Right-wing overcorrection:** The Aryan invasion never happened, Aryans originated in India and migrated outwards.
-
 **Left-wing myth:** Vikramaditya never existed, he was a legendary ruler just based on Chandragupta II.
-
 **Right-wing overcorrection:** Vikramaditya not only existed, he conquered the entire world including India, Arabia, Central Asia and Europe.
 
 ## Hinduism, Brahmins and narratives

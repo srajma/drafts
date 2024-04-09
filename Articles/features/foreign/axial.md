@@ -98,7 +98,7 @@ It’s worth noting that early Iranian religion isn’t well-recorded (the tradi
 
 **My take:** an Indian elite of Brahmins and Kshatriyas – the former claiming descent from Vasiṣṭha and the latter claiming descent from the Kurus – dominated much of Afghanistan already before the 6th century BC, and influenced the development of Zoroastrianism. While the Achaemenid dynasty itself, being Persian, probably did not descend from them, they were influenced by Zoroastrianism and their names were based on old “cultural heroes”. This Indian presence likely extended to Bactria – it is worth noting that the earliest mentions of Bactria are from early Vedic literature, e.g. the Śatapatha Brāhmaṇa, which states them to be of Kuru origin:
 
-Now Balhika Prātipīya, the Kauravya king, heard people say, “There is that Duṣṭarītu Pauṃsāyana who has been expelled from the kingdom which has come down to him through ten generations: for him that Cākra Sthapati wants to perform the Sautrāmaṇī and to confer upon him the dominion over the Sṛñjayas.”
+Now Balhika Prātipīya, the Kauravya king, heard people say, “There is that Duṣṭarītu Pauṃsāyana who has been expelled from the kingdom which has come down to him through ten generations: for him that Cākra Sthapati wants to perform the Sautrāmaṇī and to confer upon him the dominion over the Sr̥ñjayas.”
 
 —[Yājñavalkya, in the Śatapatha Brāhmaṇa, 12.9.3, c. 8th century BC.](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63487.html)
 
@@ -111,7 +111,7 @@ A point of confusion I want to pre-emptively avoid: it is true that Balhika/Vahi
 
 ![](../../../-attachments/foreign/indic_maharashtra.png)
 
-I briefly considered that there may have also been some early incursions from the Kambojas into Southern India, based on place names like Aśmaka and Ṛṣika (Aśmaka was a variant form of Aśvaka, Ṛṣika referred to the Asii – but they also referred to nations in the Deccan) – but I think this is more likely that Indian writers just gave similar names to tribes that were distant from the Central Country, cf naming of places in South-East Asia based on Taxila, Kamboja (Cambodia), Dwaravati, even Yavana (as the Java island was called in early literature, even though the Greeks had no connection to it – and in fact, this is the etymological root for “Java”).
+I briefly considered that there may have also been some early incursions from the Kambojas into Southern India, based on place names like Aśmaka and r̥ṣika (Aśmaka was a variant form of Aśvaka, r̥ṣika referred to the Asii – but they also referred to nations in the Deccan) – but I think this is more likely that Indian writers just gave similar names to tribes that were distant from the Central Country, cf naming of places in South-East Asia based on Taxila, Kamboja (Cambodia), Dwaravati, even Yavana (as the Java island was called in early literature, even though the Greeks had no connection to it – and in fact, this is the etymological root for “Java”).
 
 ![](../../../-attachments/foreign/explorers.png)
 
@@ -180,9 +180,9 @@ The etymology of _samudrá_ is “gathering of waters”, referring to the empty
 
 Knowledge of rains being formed from evaporated ocean water:
 
-ud īrayathā marutaḥ samudrato yūyaṃ vṛṣṭiṃ varṣayathā purīṣiṇaḥ |
+ud īrayathā marutaḥ samudrato yūyaṃ vr̥ṣṭiṃ varṣayathā purīṣiṇaḥ |
 
-na vo dasrā upa dasyanti dhenavaḥ śubhaṃ yātām anu rathā avṛtsata
+na vo dasrā upa dasyanti dhenavaḥ śubhaṃ yātām anu rathā avr̥tsata
 
 You send (the rain), Maruts, from the firmament; charged with the waters you shower down the rain; destroyers of foes, your kine are never dry; may the cars of the quick-moving (Maruts) arrive for our good
 
@@ -300,7 +300,7 @@ Some are fond of pointing out their Iranian traits:
 
 ·       The linguists Yāska (c. 700 BC) and Patanjali (c. 150 BC) say that the Kambojas used the verb _shavati_ to mean “to go”, which is a form found in ancient Avestan (its root _shava_ was acceptable Sanskrit)
 
-·       They were identical to the Aśvaka of Vedic literature, probably a nod to the Iranian -_aspa_ naming convention (you might think the name was an exonym, based on horses being their chief export, but the Greeks _also_ called them the Aspasioi before they had encountered anyone else in India) – but it should be noted that -_aśva_ names did exist in India, e.g. [Bahulāśva](https://www.wisdomlib.org/definition/bahulashva), [Kubalāśva](https://www.wisdomlib.org/definition/kubalashva), [Śabalāśva](https://www.wisdomlib.org/definition/shabalashva), [Kṛśāśva](https://www.wisdomlib.org/definition/krishashva), [Balāśva](https://www.wisdomlib.org/definition/balashva).
+·       They were identical to the Aśvaka of Vedic literature, probably a nod to the Iranian -_aspa_ naming convention (you might think the name was an exonym, based on horses being their chief export, but the Greeks _also_ called them the Aspasioi before they had encountered anyone else in India) – but it should be noted that -_aśva_ names did exist in India, e.g. [Bahulāśva](https://www.wisdomlib.org/definition/bahulashva), [Kubalāśva](https://www.wisdomlib.org/definition/kubalashva), [Śabalāśva](https://www.wisdomlib.org/definition/shabalashva), [Kr̥śāśva](https://www.wisdomlib.org/definition/krishashva), [Balāśva](https://www.wisdomlib.org/definition/balashva).
 
 ·       There is a bunch of Indian literature deriding them as having impure traits – but such insults exists for every tribe outside the region comprising modern-day UP
 
