@@ -2,7 +2,7 @@
 
 I think there is a lot of value in having a close relationship with primary sources: in checking PS for any claim you see, and precisely citing them for any claim you make. Otherwise you end up with a bunch of people just endlessly citing each other: at best, the entire discipline becomes a giant game of telephone; at worst, it becomes circular.
 
-This post is a catalogue of ancient Indian literature (plus relevant foreign literature) with online full texts where available. Let me know if I missed anything important. As usual, I focus on the period prior to the 12th century. This also serves as a canonical referencing protocol for primary sources, indicated in the titles, e.g. `/in/phil/canon//gita?abhinavagupta` (where `/` indicates a closed class, `//` indicates an open class and `?` indicates commentaries) that I will use throughout my writings.
+This post is a catalogue of ancient Indian literature (plus relevant foreign literature) with online full texts where available. Let me know if I missed anything important. As usual, I focus on the period prior to the 12th century. This also serves as a canonical referencing protocol for primary sources, indicated in the titles, e.g. `/in/phil/canon//gita#abhinavagupta` (where `/` indicates a closed class, `//` indicates an open class and `#` indicates commentaries) that I will use throughout my writings.
 
 Something I’d quite like to see is a fully functional and complete portal of digitized Indian manuscripts. See end of post for a list of desiderata for such a portal, if anyone’s interested in working on such a thing.
 

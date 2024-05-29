@@ -49,6 +49,7 @@ This post provides a bibiliography of high-quality, information-dense books on I
 - VS Agrawala (1953), _India as known to Pāṇini_. 594 pages. Full text from [archive.org](https://archive.org/details/in.gov.ignca.4695/page/n495/mode/2up).
 - Ananda Coomaraswamy (1942), _Spiritual Authority And Temporal Power In The Indian Theory Of Government_. 104 pages. Full text from [archive.org](http://archive.org/details/in.ernet.dli.2015.528987).
 - Moti Chandra (1973), _The World of Courtesans._ 272 pages. Full text from [archive.org](https://archive.org/details/in.ernet.dli.2015.37290/page/n25/mode/2up).
+- Radhakumud Mookerji (1943), *Chandragupta Maurya and his times*. Full text from [archive.org](https://archive.org/details/in.ernet.dli.2015.281321).
 
 ### Infrastructure and aesthetics
 

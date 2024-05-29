@@ -91,6 +91,8 @@ Image: [arxiv.org/pdf/2203.12524.pdf](https://arxiv.org/pdf/2203.12524.pdf)
 
 Also worthy of note is the “Inner-Outer hypothesis” of e.g. Zoller [6x.5] (see also the comments by mānasataraṃgiṇī therein) which postulates two waves of Aryan migrations into India, one with more archaic Indo-Iranic features, preserved in the North-West, and another a standard Indo-Aryan one.
 
+See also [[6x.6] mānasataraṁginī’s comments on all this](https://manasataramgini.wordpress.com/2006/07/16/the-substrate-in-old-indo-aryan/).
+
 **Mālaya tribe:** The talk of a “para-Munda” language in Punjab may strike one as odd given its generally presumed Eastern provenance (indeed, Munda resurfaces in the names of Eastern provinces). However, a major Austro-asiatic presence has been noted by several authors including:
 
 [[7.1] PC Bagchi (1929), “Pre-Aryan And Pre-Dravidian in India”](https://archive.org/details/prearyanandpredravidianindiaprabodhchandrabagchi1993_431_i/page/n9/mode/2up)
@@ -222,6 +224,8 @@ Sources that aren’t important enough to be fully described inline; i.e. basica
 [[6x.4] Zvelebil, Kamil (1990). Dravidian Linguistics: An Introduction](https://archive.org/details/zvelebildravidianlinguisticsanintroduction1990)
 
 [[6x.5] Zoller, Claus Peter (2016). "Outer and Inner Indo-Aryan, and northern India as an ancient linguistic area”](https://journals.uio.no/actaorientalia/article/download/5355/4695) ([mānasataraṃgiṇī’s comments thereon](https://twitter.com/blog_supplement/status/1695910975566713208))
+
+[[6x.6] mānasataraṁginī, “The substrate in Old Indo-Aryan”](https://manasataramgini.wordpress.com/2006/07/16/the-substrate-in-old-indo-aryan/)
 
 [[8x.1] Purushottam Singh (1996), “The origin and dispersal of millet cultivation in India”](http://web.archive.org/web/20220922174809/books.ub.uni-heidelberg.de/propylaeum/reader/download/180/180-30-76304-1-10-20161130.pdf)
 
