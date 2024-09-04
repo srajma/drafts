@@ -87,15 +87,17 @@ This post provides a bibiliography of high-quality, information-dense books on I
 Some Twitter accounts that post on Indian history, worth a follow:
 
 - Myself: [@real_mahalingam](twitter.com/real_mahalingam)
-- Academic-coded: [@suhasm](https://twitter.com/suhasm), [@AnushaSRao2](https://twitter.com/AnushaSRao2) [@avtansa](https://twitter.com/avtansa), [@ShivalikToto](https://twitter.com/ShivalikToto), [@maitra_varuna](https://twitter.com/maitra_varuna), [@vicitracitta](https://twitter.com/vicitracitta), [@sharmasatyan](https://twitter.com/sharmasatyan)
+- Academic-coded: [@suhasm](https://twitter.com/suhasm), [@AnushaSRao2](https://twitter.com/AnushaSRao2) [@avtansa](https://twitter.com/avtansa), [@ShivalikToto](https://twitter.com/ShivalikToto), [@maitra_varuna](https://twitter.com/maitra_varuna), [@vicitracitta](https://twitter.com/vicitracitta), [@sharmasatyan](https://twitter.com/sharmasatyan), [SebastianNehrd2](https://x.com/SebastianNehrd2)
 - Trad-coded: [@blog_supplement](https://twitter.com/blog_supplement) ([manasataramgini](https://manasataramgini.wordpress.com/)), [@shrikanth_krish](https://twitter.com/shrikanth_krish), [@satoverma](https://twitter.com/satoverma), [@arya_amsha](https://twitter.com/arya_amsha)
 - Brahmanical Patriarchy Enjoyer-coded: [@sapratha](http://twitter.com/sapratha) ([substack](https://bharadvajatmaja.substack.com/)), [@dhanyavisnu](https://twitter.com/dhanyavisnu)
 - AIT-Alt-coded: [@agenetics1](https://twitter.com/agenetics1), [@Ugra\_\_\_](https://twitter.com/Ugra___)
-- Boomer coded: [@TrueIndology](https://x.com/TrueIndology)
+- Boomer coded: [@TrueIndology](https://x.com/TrueIndology), [@prathgodbole](https://x.com/prathgodbole)
 - Misc based: [@aayush_sin60488](https://x.com/aayush_sin60488)
 - Non-Right-coded: [@sialmirzagoraya](https://twitter.com/sialmirzagoraya), [@The_Equationist](https://twitter.com/The_Equationist), [@Rtam86418021](https://x.com/Rtam86418021/)
-- Not Indian-specific: [@Peter_Nimitz](https://twitter.com/Peter_Nimitz), [@XianyangCB](https://twitter.com/XianyangCB), [@razibkhan](https://twitter.com/razibkhan), [@orientalismus](https://twitter.com/orientalismus), [@Paracelsus1092](https://twitter.com/Paracelsus1092)
+- Not Indian-specific: [@Peter_Nimitz](https://twitter.com/Peter_Nimitz), [@XianyangCB](https://twitter.com/XianyangCB), [@razibkhan](https://twitter.com/razibkhan), [@orientalismus](https://twitter.com/orientalismus), [@Paracelsus1092](https://twitter.com/Paracelsus1092), [@LykosPagan](https://x.com/LykosPagan)
 - A very interesting project, not out yet: _The Illustrated Encyclopedia of Indian History_. [Website](https://www.samudbhavafoundation.org/), Twitter: [@ilustratedindia](https://twitter.com/ilustratedIndia).
+
+[Twitter list to subscribe to](https://x.com/i/lists/1831399321117319397)
 
 Some particularly good snippets by these authors:
 - REDACTED, _[Some reflections on the history of Indian science](https://www.brownpundits.com/wp-content/uploads/2023/02/A-review-of-Hindu-Science.pdf)
