@@ -60,12 +60,12 @@ Something I’d quite like to see is a fully functional and complete portal of d
 **`/vedanga` Vedāṅga (linguistics, pre-Hellenic astronomy, theology)**
 
 - `/phonetics` Śikṣā:
-    - `/pratisakhya` `/rg, /krsnayajur//taittiriya, etc.` Prātiśākhya (c. 800 BC) [RV (archive.org — vol [I](https://archive.org/details/in.ernet.dli.2015.382673/mode/2up), [II](https://archive.org/details/in.ernet.dli.2015.284197/mode/2up), [III](https://archive.org/details/in.ernet.dli.2015.283680/page/n1/mode/2up)), KYV-T ([archive.org](https://archive.org/details/in.ernet.dli.2015.61160/page/n3/mode/2up), [sanskritweb.net](http://www.sanskritweb.net/yajurveda/tp-comb.pdf)), AV ([shaivam.org](https://shaivam.org/sanskrit/ssk-atharvana-veda-pratisakhya.pdf#gsc.tab=0)), SV ([archive.org](https://archive.org/details/rktantram/page/n1))]
+    - `/pratisakhya` `/rg, /krsnayajur//taittiriya, etc.` Prātiśākhya (c. 800 BC): RV (archive.org — vol [I](https://archive.org/details/in.ernet.dli.2015.382673/mode/2up), [II](https://archive.org/details/in.ernet.dli.2015.284197/mode/2up), [III](https://archive.org/details/in.ernet.dli.2015.283680/page/n1/mode/2up)), KYV-T ([archive.org](https://archive.org/details/in.ernet.dli.2015.61160/page/n3/mode/2up), [sanskritweb.net](http://www.sanskritweb.net/yajurveda/tp-comb.pdf)), AV ([shaivam.org](https://shaivam.org/sanskrit/ssk-atharvana-veda-pratisakhya.pdf#gsc.tab=0)), SV ([archive.org](https://archive.org/details/rktantram/page/n1))
     - `/siksa` Śikṣā: `//panini` Pāṇinīya — [archive.org](https://archive.org/details/PaniniyaShiksha/page/n3/mode/2up)
 - `/etymology` Nirukta:
     - `//yaska` Yāska’s Nirukta (c. 600 BC). Full Skt+text from [archive.org](https://archive.org/details/nighantuniruktao00yaskuoft/page/n427/mode/2up), critical survey from [ignca.gov.in](https://ignca.gov.in/Asi_data/16247.pdf)
 - `/prosody` Chanda:
-    - `//pingala` Piṅgala’s Chandaḥśāstra (c. 300 BC). Full Skt from [ancient-buddhist-texts.com](https://www.ancient-buddhist-texts.net/Textual-Studies/Sanskrit-Prosody/index.htm).
+    - `//pingala` Piṅgala’s Chandaḥśāstra (c. 300 BC). Full Skt from [ancient-buddhist-texts.com](https://www.ancient-buddhist-texts.net/Textual-Studies/Sanskrit-Prosody/index.htm)
 - `/grammar` Vyākaraṇa:
     - `//panini` Pāṇini’s Aṣṭādhyāyī (c. 300 BC). Full texts from [archive.org](http://archive.org/) ([Śrīśa Candra Vāsu & Roger Black, vols 1-8](https://archive.org/details/ashtadhyayi/ashtadhyayi0/mode/2up)), [SanskritDictionary.com](https://sanskritdictionary.com/panini/) (with commentaries in Skt)
     - `//patanjali` Patañjali’s Mahābhāṣya (c. 180 BC). Full text from [archive.org](http://archive.org/) (Kielhorn — vols [I](https://archive.org/details/vykaraamahbhshy01kielgoog/page/n7/mode/2up), [II](https://archive.org/details/vykaraamahbhshy00kielgoog/page/n2/mode/2up), [III](https://archive.org/details/vykaraamahbhshy02kielgoog/page/n5/mode/2up))
@@ -130,9 +130,9 @@ hastyayurveda of palakapya
 - `/anuyoga` Anuyoga genre (c. 100—1200)
     - `/epic` Prathamānuyoga (Epic literature): `//vasudevahindi` Saṅghadāsa’s Vasudevahiṇḍī (473), the Jain Br̥hatkathā; `//padmapurana` Ravisena’s Padma-Purāṇa (678), the Jain Rāmāyaṇa; `//harivamsapurana` Jinasena-I’s Harivaṃśa-Purāṇa (783), the Jain Mahābhārata; `//mahapurana` Jinasena-II’s Mahāpurāṇa (850), the Jain cosmology
     - `/sci` Karaṇānuyoga (Technical literature): `//tiloyapannatti` Yativr̥ṣabha’s Tiloya-paṇṇatti (6th cen); `//gommatsara` Nemicandra’s Gommatsāra (975); `//lokavibhaga` Sarvanandi’s Lokavibhāga (458)
-    - `/moral` Caraṇānuyoga (Moral literature): `//mulacara` Vaṭṭakera's Mūlācāra (2nd cen); `//aradhana` Śivarāya’s Bhagavatī Ārādhanā (2nd cen); [//samayasara]; Kundakunda’s Samayasāra (2nd cen); [//pancastikayasara]; Kundakunda’s Pañcastikayasara (2nd cen); [//niyamasara]; Kundakunda’s Niyamasara (2nd cen): [//sravakacara]; Samantabhadra’s Ratnakaranda śrāvakācāra (5th cen)
+    - `/moral` Caraṇānuyoga (Moral literature): `//mulacara` Vaṭṭakera's Mūlācāra (2nd cen); `//aradhana` Śivarāya’s Bhagavatī Ārādhanā (2nd cen); `//samayasara`; Kundakunda’s Samayasāra (2nd cen); `//pancastikayasara`; Kundakunda’s Pañcastikayasara (2nd cen); `//niyamasara`; Kundakunda’s Niyamasara (2nd cen): `//sravakacara`; Samantabhadra’s Ratnakaranda śrāvakācāra (5th cen)
     - `/phil` Dravyānuyoga (Philosophical literature): `//tattvarthasutra` Umāsvāmin’s Tattvārtha-sūtra (2nd cen); `//pravacanasara` Kundakunda’s Pravacanasāra (2nd cen); `//aptamimamsa` Samantabhadra’s Āptamīmāṁsā (2nd cen); `//pramanasangraha etc.` Akalaṅka’s many works (8th cen); `//dravyasangraha` Nemicandra’s Dravyasaṅgraha (10th cen); `//jnanarnava` Shubhacandra’s Jñānārṇāva (11th cen)
-- `/post` Post-canonical literature, e.g. `//sanmatitarka]` `//dvadasaranayacakra` `//yogadrstisamuccaya` `//yogasastra` `//karmagrantha` etc.
+- `/post` Post-canonical literature, e.g. `//sanmatitarka` `//dvadasaranayacakra` `//yogadrstisamuccaya` `//yogasastra` `//karmagrantha` etc.
 
 **Tamil**
 

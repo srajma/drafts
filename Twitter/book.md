@@ -1,3 +1,5 @@
+https://x.com/real_mahalingam/status/1779379136991010943
+
 Excerpts from some historical fiction I wrote (on the rise of Kautilya/the Mauryas) 2 years ago.
 
 It's only about 65% done, and it has a bunch of ugly things I’m no longer proud of, but it's better than most Indian historical fiction/fantasy out there.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f67c36491de819e5",
+        "id": "3926f55f291d13af",
         "type": "tabs",
         "children": [
           {
-            "id": "49296bd26ded4493",
+            "id": "c9f5f1bf99eddc3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter/toolkit.md",
+                "file": "Articles/sources/secondary.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,21 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "barbarian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "898c88b454bb6d7d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/toolkit.md",
+                "file": "Articles/sources/secondary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/toolkit.md",
+                "file": "Articles/sources/secondary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cd39eae23bd358c6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -125,11 +106,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter/toolkit.md"
+                "file": "Articles/sources/secondary.md"
+              }
+            }
+          },
+          {
+            "id": "d8a270fbe1b59b86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,16 +131,32 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "49296bd26ded4493",
+  "active": "c9f5f1bf99eddc3e",
   "lastOpenFiles": [
+    "Twitter/masterstroke.md",
+    "Twitter/value.md",
+    "Twitter/internationalism.md",
+    "Twitter/2024 election.md",
+    "Twitter/book.md",
+    "Twitter/diet.md",
+    "Twitter/policy.md",
+    "Twitter/sanudasa.md",
+    "Twitter/suvarnabhumi.md",
+    "Twitter/toolkit.md",
+    "pers/polarization wignats.md",
+    "-attachments/Pasted image 20240402163011.png",
+    "-attachments/Pasted image 20240402162926.png",
+    "-attachments/GPO5gv7XgAANlJr.png",
+    "-attachments/GPO49eqXYAAxIKj.png",
+    "-attachments/GPOfPBnXAAAB7IY.png",
+    "Articles/myths/README.md",
+    "Articles/sources/primary.md",
+    "pers/m.md",
+    "-attachments/GPO48JSWUAAms5W.png",
     "Old/political_history_flowchart.md",
     "Old/vikramaditya.md",
     "Old/maps.md",
@@ -160,34 +169,14 @@
     "old_temp/maps.md",
     "old_temp/income.md",
     "old_temp",
-    "Twitter/toolkit.md",
-    "Twitter/suvarnabhumi.md",
-    "Twitter/sanudasa.md",
-    "Twitter/diet.md",
-    "Twitter/book.md",
     "README.md",
-    "Articles/sources/primary.md",
     "Articles/features/hinduism/theology.md",
-    "Articles/myths/barbarians.md",
-    "Articles/sources/secondary.md",
     "-attachments/book/ajatasatru.png",
-    "-attachments/Pasted image 20240402162926.png",
     "-attachments/Pasted image 20240414105102.png",
-    "-attachments/Pasted image 20240402163011.png",
     "-attachments/book/GLGgiqhWUAEEHtW.jpeg",
     "-attachments/book/greek.png",
-    "-attachments/book/arthashastra.png",
-    "-attachments/book/todo.png",
-    "-attachments/book/liberties.png",
-    "-attachments/book/kang.png",
     "-attachments/book",
-    "-thoughts/reservations.md",
-    "Fiction/TODO.md",
-    "Fiction/maurya plan.md",
     "-attachments/pramanaproposal",
-    "Articles/README.md",
-    "Articles/myths/README.md",
-    "-thoughts/visualizing the ancients.md",
     "-attachments/retardation",
     "New Text Document.txt",
     "_attachments/Untitled",
