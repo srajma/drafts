@@ -24,6 +24,7 @@ This post provides a bibiliography of high-quality, information-dense books on I
 - RC Majumdar (1979), _Ancient Indian Colonization In South East Asia_. 109 pages. Full text from [archive.org](https://archive.org/details/AncientIndianColonizationInSouthEastAsiaRCMajumdar/page/n13/mode/2up).
 - Ministry of External Affairs (2014), _Encyclopedia of India-China Cultural Contacts_. Vols 1-2: 1071 pages. Full text from mea.gov.in (vols [I](https://mea.gov.in/images/pdf/India-ChinaEncyclopedia_Vol-1.pdf), [II](https://mea.gov.in/images/pdf/India-ChinaEncyclopedia_Vol-2.pdf))
 - Khaliq Ahmad Nizami (1994), _Early Arab Contact with South Asia_. 18 pages. Full text from [oup.com](https://academic.oup.com/jis/article/5/1/52/659195).
+- Kathryn A. Hain (2020), *The Prestige Makers: Greek Slave Women in Ancient India*. Full text from [muse.jhu.edu](https://muse.jhu.edu/pub/5/article/757117)
 
 ### Science, technology and academia
 
